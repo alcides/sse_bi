@@ -1,0 +1,1465 @@
+runtime environments;2006;1
+availability;2005;8
+fault tolerance;2013;1
+software evolution;2014;1
+engineering;2005;1
+rsa;2005;1
+estimation;2010;1
+sustainability;2008;1
+online analytical processing;1997;1
+concurrency;2014;4
+recursion;1997;1
+age;1996;1
+validation;2012;5
+trees;2013;1
+excel;2011;1
+monitors;2015;3
+robustness;2009;7
+estimation;2003;2
+anomaly detection;2009;1
+virtualization and security;2014;1
+experimentation;2006;5
+measurement;1999;1
+assertions;2003;1
+modis;1999;1
+mobile agents;2003;1
+fault tolerance;1999;1
+validation;2005;4
+excel;2002;1
+publishing;2005;1
+monitors;2008;2
+robustness;2000;2
+experimentation;2015;7
+performance;1997;1
+marketing;1997;1
+real-time systems;1999;1
+dictionaries;2002;1
+interoperability;2012;1
+graphical user interfaces;2014;1
+network architectures;2011;1
+authentication;2016;1
+matching;2014;1
+data structures;2013;1
+measurement;2013;2
+men;2012;33
+pentium;2000;1
+compilers;2009;2
+companies;2007;1
+performance;2006;3
+software architectures;2011;1
+education;2011;6
+vhdl;2015;1
+regularization;2014;1
+organizations;2009;4
+computability;1992;1
+measurement;2010;5
+men;2005;18
+business intelligence;2014;8
+completeness;2014;1
+logic;2009;1
+linux;2014;1
+performance;2015;9
+software infrastructure;2007;1
+education;2000;1
+technologies;2003;4
+organizations;2002;2
+constraints;2011;4
+genetics;2008;2
+placement;2005;1
+measurement;2003;3
+men;1994;2
+pointing;2010;2
+web services;2008;3
+logic;2006;1
+linux;2007;2
+performance;2016;2
+information science education;2006;1
+cloud computing;2015;6
+physics;2015;1
+design;1996;1
+computability;2010;6
+networks;2015;2
+men;2015;30
+middleware;2012;9
+embedded systems;2001;1
+parallel architectures;2014;1
+verification;2013;4
+operating systems;2003;2
+layering;1999;1
+automation;2014;9
+physics;2006;2
+placement;2011;2
+computability;2003;6
+networks;2008;6
+authorization;2009;2
+haptic devices;2008;2
+artificial life;2011;2
+basic;2012;1
+semantics;2009;1
+operating systems;2010;1
+interpreters;2014;2
+sql server;2015;2
+design;2002;3
+electronic commerce;1999;2
+networks;2001;2
+virtual machines;2006;1
+discretization;2016;1
+accessibility;2012;2
+basic;2005;1
+mathematica;2011;2
+trust;2006;1
+placement;2014;1
+design;2009;3
+metrics;2010;3
+intrusion detection systems;2013;2
+network manageability;1999;3
+accessibility;2005;1
+basic;2002;1
+mathematica;2000;1
+scheduling;2002;1
+scanners;2014;3
+authentication;2014;1
+transportation;2016;1
+clustering;2015;4
+law;2005;1
+reliability;2001;2
+intranets;2007;4
+completeness;2016;1
+metrics;2001;1
+evaluation;2015;12
+message passing;1998;1
+data warehouses;2009;18
+scheduling;2009;7
+penetration testing;2012;2
+operating systems;1999;1
+authentication;2009;1
+tracking;2004;1
+correctness;2008;3
+frameworks;2008;5
+reliability;2006;6
+software maintenance;2014;1
+hardware;2001;1
+clustering;2011;1
+architectures;1999;3
+smartphones;2007;1
+evaluation;2006;8
+pointing;2009;3
+data warehouses;2006;6
+penetration testing;2011;1
+query optimization;2009;2
+vulnerability scanners;2009;3
+consistency;2011;3
+correctness;2007;3
+inheritance;2007;2
+annotation;2011;2
+functionality;1997;1
+reliability;2015;8
+clustering;2002;2
+recursion;2000;1
+measurement;2005;2
+metrics;1999;1
+synchronization;2016;1
+network manageability;2008;1
+pointing;2000;2
+windows;2008;1
+data integration;2007;1
+query optimization;2002;1
+e-learning;2011;1
+correctness;1998;1
+application servers;2009;1
+functionality;2004;1
+abstraction;2013;2
+architectures;2001;1
+education;2016;1
+age;2000;13
+windows;2015;1
+texting;2008;2
+fault tolerance;2000;1
+layering;2014;5
+jsp;2010;1
+architecture description languages;2013;1
+real-time operating systems;2007;1
+functionality;2003;2
+itu;2010;3
+architectures;2010;3
+genetic programming;2007;4
+age;2011;19
+temperature control;2002;1
+texting;2007;3
+grid computing;2008;4
+availability;2011;10
+parsing;2007;2
+economics;2014;2
+engineering;2011;2
+rsa;2011;1
+enterprise applications;2009;2
+software prototyping;2006;2
+functionality;2010;1
+mobile devices;2007;1
+information systems;2006;1
+itu;2003;3
+windows;1997;1
+availability;2004;3
+enumeration;2008;1
+activex;2003;1
+parsing;2012;1
+software evolution;2015;1
+estimation;2013;1
+topology;2013;1
+data mining;2015;1
+gsm;2007;1
+information systems;2015;1
+decision support systems;2011;1
+concurrency;2015;1
+formalisms;2008;1
+age;1997;1
+real-time systems;2012;1
+validation;2015;6
+interoperability;1999;1
+monitors;2014;3
+robustness;2010;2
+estimation;2002;1
+virtualization and security;2013;1
+experimentation;2001;6
+data mining;2004;1
+bootstrapping;2014;1
+performance;1995;1
+education;1996;1
+repeaters;2001;1
+mobile agents;2002;4
+fault tolerance;1996;1
+validation;2004;2
+surveillance;2005;1
+texting;2013;7
+publishing;2004;1
+transaction processing performance council;2000;1
+robustness;2001;2
+experimentation;2014;8
+concurrent programming languages;2012;2
+compilers;2003;1
+companies;2009;1
+data recovery;2008;1
+interoperability;2013;1
+graphical user interfaces;2013;1
+publishing;2013;1
+estimation;2016;1
+dos;2000;1
+measurement;2012;9
+patterns;2013;2
+completeness;2000;1
+text editing;2013;1
+performance;2005;5
+concurrency;2016;1
+education;2010;5
+synchronization;2007;2
+organizations;2008;4
+constraints;2013;2
+physics;1994;1
+computability;1999;2
+personalization;2005;4
+men;2004;13
+business intelligence;2015;4
+completeness;2015;1
+logic;2008;4
+military;2012;1
+linux;2009;1
+performance;2014;20
+information retrieval;2009;2
+embedded systems;2012;2
+education;2003;2
+approximation;2010;1
+technologies;2000;3
+interconnect;2012;1
+failure prediction;2011;2
+redundancy;2007;2
+constraints;2010;1
+genetics;2009;2
+measurement;2002;4
+men;1997;2
+web services;2009;12
+personalization;2013;2
+logic;2001;1
+patterns;2014;5
+middleware;2002;1
+embedded systems;2011;5
+technologies;2011;5
+consistency;2016;1
+cloud computing;2012;6
+design;1997;1
+computability;2009;6
+networks;2014;6
+authorization;2007;3
+completeness;1997;1
+middleware;2013;3
+aerospace;2015;1
+natural language processing;2009;1
+embedded systems;2002;1
+trust;2011;1
+verification;2012;4
+network security;2010;2
+redundancy;2012;4
+automation;2009;7
+design;2004;2
+computability;2002;6
+networks;2007;3
+measurement;2016;3
+authorization;2014;2
+oracle database;2003;1
+modis;2009;1
+basic;2015;1
+message passing;2002;1
+ranking;2014;3
+semantics;2014;2
+operating systems;2011;1
+redundancy;1994;2
+data modeling;2011;1
+graph theory;2012;1
+design;2003;3
+networks;2000;2
+electronics;2010;1
+virtual machines;2005;1
+accessibility;2011;7
+mathematica;2010;1
+reusability;2000;1
+scheduling;1996;1
+consistency;1999;1
+field studies;2009;2
+design;2010;1
+software development techniques;2009;1
+it architectures;2009;1
+key-value stores;2014;1
+clustering;1998;2
+metrics;2011;5
+virtual machines;2014;4
+uncertainty;2005;2
+accessibility;2004;3
+scanners;2013;1
+version control;2013;1
+authentication;2015;2
+reliability;2000;4
+hardware;2011;3
+standard performance evaluation corporation;2013;1
+evaluation;2008;9
+data warehouses;2008;4
+penetration testing;2013;1
+consistency;2013;3
+correctness;2009;1
+frameworks;2015;5
+reliability;2009;2
+clustering;2012;1
+architectures;1998;1
+personalization;2010;2
+computing platforms;2008;3
+evaluation;2007;8
+patterns;2007;1
+pointing;2014;6
+windows;2002;1
+data warehouses;2001;2
+engineering;2010;3
+computer games;2006;1
+correctness;2000;1
+frameworks;2000;5
+reliability;2014;8
+web applications;2009;2
+itu;1999;1
+clustering;2003;1
+architectures;2007;1
+pointing;2001;3
+age;2006;12
+windows;2009;1
+intrusion detection systems;2015;1
+query optimization;2001;1
+jsp;2012;1
+transportation;2014;2
+consistency;2003;1
+correctness;1999;2
+application servers;2008;1
+annotation;2003;1
+functionality;2005;4
+web applications;2014;4
+abstraction;2012;2
+architectures;2000;2
+genetic programming;2013;4
+network manageability;2000;1
+ranking;2009;2
+age;2001;8
+technologies;2016;2
+texting;2009;4
+machine learning;2015;1
+routing protocols;2007;1
+fault tolerance;2001;1
+in-network processing;2012;1
+powerpc;2002;1
+layering;2013;4
+documentation;2015;1
+functionality;2012;8
+mobile devices;2013;1
+information systems;2000;1
+itu;2013;3
+architectures;2009;2
+marketing;2007;1
+age;2008;15
+data streaming;2005;1
+texting;2000;1
+grid computing;2009;2
+funding;2015;2
+availability;2010;1
+fault tolerance;2008;1
+failure prediction;2016;1
+sensor networks;2010;9
+trees;2001;1
+engineering;2008;1
+automation;2016;2
+monitors;1995;1
+enterprise applications;2008;2
+functionality;2011;6
+assertions;1999;1
+itu;2002;2
+scheduling algorithms;2001;2
+database administration;2004;1
+windows;1998;2
+texting;1999;2
+mobile agents;1999;5
+availability;2003;7
+validation;2009;4
+activex;2002;1
+engineering;2003;1
+excel;2014;1
+robustness;2012;3
+operating systems security;2014;1
+concurrency;2012;1
+support vector machines;2006;2
+age;1994;2
+validation;2014;2
+query planning;2005;1
+monitors;2013;8
+robustness;2011;3
+estimation;2005;3
+experimentation;2000;2
+data mining;2007;1
+privacy policies;2013;1
+personalization;2003;2
+cryptography;2014;1
+mobile agents;2001;5
+fault tolerance;1997;1
+validation;2007;3
+organizations;1997;1
+monitors;2006;1
+experimentation;2009;13
+packaging;2009;1
+men;2009;32
+companies;2010;1
+online analytical processing;2013;1
+performance;2003;10
+cryptography;2001;1
+technologies;1999;5
+synchronization;2004;1
+interoperability;2014;4
+software reliability;2013;1
+constraints;2007;2
+publishing;2012;1
+dos;2007;1
+measurement;2015;7
+patterns;2012;3
+batteries;2010;1
+performance;2004;8
+education;2013;6
+vhdl;2013;1
+summarization;2009;3
+evolutionary algorithms;2014;2
+organizations;2015;3
+automation;1997;1
+dos;2008;1
+computability;1998;3
+experimentation;1999;3
+data structures;2004;1
+networks;1995;1
+measurement;2004;2
+men;2007;21
+completeness;2008;2
+logic;2011;5
+patterns;2015;4
+performance;2013;14
+software infrastructure;2009;1
+embedded systems;2013;4
+education;2002;1
+approximation;2011;1
+technologies;2001;3
+parsers;2007;1
+interconnect;2013;1
+failure prediction;2010;1
+publishing;1998;1
+genetics;2010;1
+men;1996;1
+web services;2014;4
+business intelligence;2007;2
+logic;2000;1
+middleware;2003;2
+snmp;2000;2
+approximation;2002;2
+technologies;2008;4
+genetic algorithms;2013;1
+automation;2003;1
+cloud computing;2013;3
+physics;2009;2
+design;1998;1
+security requirements;1999;1
+computability;2008;16
+networks;2013;7
+main memory;2013;1
+modis;2010;1
+snmp;1999;4
+verification;2011;1
+visual basic;2005;1
+operating systems;2001;1
+automation;2008;6
+physics;2000;1
+design;2005;2
+computability;2001;5
+networks;2006;1
+basic;2014;1
+software architectures;2014;1
+semantics;2015;1
+operating systems;2008;1
+law;2009;2
+design;2012;4
+electronics;2011;1
+evaluation;1995;1
+consistency;2006;4
+accessibility;2010;2
+basic;2007;1
+calculus;2014;2
+information extraction;2007;2
+synchronization;2013;1
+annotation;1998;1
+design;2011;9
+risk management;2012;1
+metrics;2012;3
+virtual machines;2013;1
+accessibility;2003;3
+windows;2003;1
+bluetooth;2012;1
+law;2007;2
+cluster analysis;2015;2
+hardware;2012;4
+standard performance evaluation corporation;2014;1
+measurement;2011;4
+access control;2013;1
+multi-agent systems;2011;1
+data warehouses;2011;18
+scheduling;2011;3
+penetration testing;2014;1
+operating systems;1997;1
+authentication;2007;1
+tracking;2006;1
+consistency;2012;2
+correctness;2010;1
+frameworks;2014;7
+surfacing;2014;1
+hardware;2003;2
+regularization;2011;1
+evaluation;2000;2
+pointing;2015;5
+firewalls;2012;3
+automatic programming;2014;1
+data warehouses;2000;4
+routing protocols;2010;1
+availability;1998;1
+intrusion detection systems;2012;2
+zigbee;2011;1
+data integration;2002;1
+consistency;2005;1
+network adapters;2012;1
+frameworks;2007;1
+annotation;2009;1
+hardware;1994;1
+itu;1998;1
+clustering;2004;3
+architectures;2006;5
+access control;2003;1
+modis;2003;1
+pointing;2006;4
+age;2007;10
+windows;2010;1
+web application security;2014;1
+data centers;2014;2
+query optimization;2000;1
+layering;2011;3
+systems security;2014;1
+java me;2009;1
+transportation;2015;1
+documentation;2009;1
+consistency;2002;1
+application servers;2007;1
+functionality;2006;2
+architectures;2015;3
+network management;1999;3
+network manageability;2001;2
+age;2014;26
+texting;2010;3
+fault tolerance;2006;1
+data integration;2012;1
+reference models;2014;1
+sensor networks;2012;9
+software fault tolerance;2015;1
+layering;2012;2
+engineering;2014;11
+forecasting;2003;1
+documentation;2014;3
+application servers;2000;1
+functionality;2013;7
+mobile devices;2012;1
+information systems;2003;2
+itu;2012;2
+architectures;2008;6
+genetic programming;2005;4
+formalisms;2004;3
+age;2009;22
+data streaming;2010;1
+texting;2001;1
+funding;2008;2
+availability;2009;8
+fault tolerance;2009;1
+sensor networks;2011;24
+engineering;2009;4
+ambient intelligence;2007;1
+rsa;2009;1
+documentation;2007;1
+assertions;1998;1
+itu;2005;4
+security protocols;2009;2
+marketing;2015;2
+availability;2002;4
+repeaters;2005;1
+validation;2008;2
+parsing;2014;1
+engineering;2000;1
+rsa;2002;1
+robustness;2013;1
+estimation;2015;3
+software prototyping;2015;2
+sustainability;2013;3
+modis;1995;1
+age;1995;1
+mobile agents;2007;1
+evaluation;2009;12
+validation;2001;2
+monitors;2012;5
+anomaly detection;2010;1
+experimentation;2003;6
+data mining;2006;1
+logic;1999;1
+assertions;2000;1
+ring networks;2002;1
+concurrency;2004;1
+cryptography;2015;2
+network management;2008;1
+mobile agents;2000;5
+real-time systems;2003;1
+validation;2006;4
+interoperability;2000;1
+monitors;2005;4
+dos;1997;1
+experimentation;2008;6
+men;2008;26
+secondary storage;2013;1
+lapack;1999;1
+buffering;2013;1
+compilers;2013;3
+companies;2011;2
+performance;2002;9
+education;2006;5
+network management;2001;2
+interoperability;2015;3
+evolutionary algorithms;2008;4
+network architectures;2012;1
+genetics;2005;1
+measurement;2014;1
+patterns;2003;2
+world wide web;1997;1
+logic;2013;2
+men;2010;20
+performance;2011;23
+computability;2004;2
+information retrieval;2002;1
+modis;2014;3
+technologies;2007;2
+neural networks;2008;2
+spreadsheets;2014;1
+evolutionary algorithms;2015;2
+redundancy;2000;2
+organizations;2014;8
+reconstruction;2016;1
+dos;2015;1
+computability;1997;1
+experimentation;1998;4
+measurement;2007;1
+patterns;2004;3
+robotics;2013;1
+business intelligence;2013;6
+completeness;2009;1
+logic;2010;1
+performance;2012;18
+education;2005;1
+formalisms;2016;2
+technologies;2014;9
+system administration;2015;1
+failure prediction;2013;2
+redundancy;2009;2
+organizations;2007;2
+automation;2005;5
+men;1999;11
+web services;2015;4
+business intelligence;2004;2
+electronics;1999;1
+logic;2003;1
+education;2009;2
+artificial life;2006;2
+embedded systems;2005;2
+cloud computing;2014;9
+approximation;2003;3
+ad hoc networks;2009;1
+technologies;2009;1
+interpreters;2001;2
+automation;2002;1
+computability;2015;5
+networks;2012;10
+middleware;2011;6
+trust;2013;1
+verification;2010;2
+validation;1994;1
+operating systems;2006;2
+regularization;2010;1
+automation;2011;3
+design;2006;4
+computability;2000;5
+networks;2005;3
+main memory;2005;2
+artificial life;2008;2
+question answering;2010;1
+field studies;2012;1
+law;2008;1
+graph theory;2014;1
+design;2013;4
+search-based software engineering;2010;1
+matlab;2008;1
+virtual machines;2011;1
+accessibility;2009;6
+basic;2006;1
+browsers;2015;2
+multithreading;1998;1
+reliability;1997;2
+metrics;2013;4
+intrusion detection systems;2014;3
+accessibility;2002;1
+data warehouses;2013;4
+software fault tolerance;2016;1
+operating systems;1995;2
+correctness;2012;2
+law;2006;1
+design;2016;2
+reliability;2002;2
+memory management;2013;1
+hardware;2013;2
+men;2016;7
+data streams;2010;1
+evaluation;2010;3
+telecommunications;1999;2
+tracking;2009;2
+correctness;2011;6
+frameworks;2013;7
+annotation;2015;1
+reliability;2011;4
+hardware;2004;1
+clustering;2014;1
+smartphones;2008;1
+evaluation;2001;4
+education;2014;10
+pointing;2012;2
+windows;2004;1
+data warehouses;2003;10
+availability;1997;1
+zigbee;2012;1
+software fault tolerance;2002;1
+vulnerability scanners;2014;2
+consistency;2004;1
+correctness;2002;2
+frameworks;2006;2
+reliability;2016;4
+web applications;2011;3
+abstraction;2009;2
+architectures;2005;1
+genetic programming;2010;4
+access control;2002;1
+network manageability;2007;1
+pointing;2007;3
+age;2004;4
+texting;2012;4
+java me;2008;1
+transportation;2008;1
+documentation;2008;1
+multicore architectures;2014;1
+frameworks;1999;2
+cryptographic primitives;2001;1
+functionality;2007;3
+mysql;2015;3
+bagging;2003;1
+architectures;2014;12
+recursion;2014;1
+pointing;1998;2
+age;2015;13
+texting;2011;10
+funding;2002;1
+availability;2015;6
+fault tolerance;2007;2
+layering;2003;1
+engineering;2015;8
+documentation;2001;2
+functionality;2014;5
+information systems;2002;2
+itu;2015;1
+texting;2002;1
+funding;2009;1
+availability;2008;11
+fault tolerance;2014;4
+trees;2007;1
+economics;2003;1
+engineering;2006;3
+rsa;2008;3
+estimation;2009;1
+documentation;2006;1
+sustainability;2011;2
+itu;2004;1
+architectures;2016;2
+formalisms;2012;1
+marketing;2014;5
+smart grid;2015;1
+availability;2001;6
+random number generation;2011;1
+validation;2011;1
+activex;2000;1
+parsing;2009;2
+anomaly detection;2012;2
+experimentation;2005;3
+data mining;2008;3
+sql server;2016;1
+visualization;2007;1
+age;1992;1
+funding;1999;1
+synchronization;2002;1
+monitors;2011;16
+robustness;2005;4
+estimation;2007;1
+experimentation;2002;9
+personalization;1995;2
+assertions;2015;1
+information systems;2008;1
+companies;2013;1
+modis;2005;2
+repeaters;2004;1
+rendering;2016;1
+real-time systems;2002;1
+software reliability;2006;1
+ontologies;2014;1
+experimentation;2011;15
+packaging;2011;1
+patterns;2009;2
+men;2011;37
+compilers;2012;1
+performance;2001;5
+data recovery;2011;1
+repeaters;2015;1
+network management;2000;3
+reputation systems;2009;3
+interoperability;2008;2
+evolutionary algorithms;2009;2
+software reliability;2015;1
+constraints;2001;1
+physics;1998;1
+dos;2005;3
+computability;1995;1
+personalization;2009;2
+men;2000;13
+completeness;2003;2
+buffering;2005;1
+logic;2012;2
+performance;2010;9
+modis;2013;2
+mobile phones;2012;1
+cryptography;2012;3
+redundancy;2003;2
+organizations;2013;7
+constraints;2014;2
+genetics;2013;2
+personalization;2006;2
+social networks;2013;3
+business intelligence;2010;2
+completeness;2010;2
+logic;2005;1
+service buses;2014;1
+information retrieval;2010;1
+pointing;1992;1
+embedded systems;2015;1
+modis;2006;1
+corba;2002;1
+summarization;2002;1
+ad hoc networks;2007;1
+technologies;2015;7
+parsers;2009;1
+transducers;2011;1
+document representation;2010;1
+redundancy;2008;4
+wifi;2001;1
+model checking;2012;2
+automation;2004;2
+physics;2012;1
+evaluation;1994;1
+men;1998;7
+web services;2012;2
+logic;2002;1
+linux;2003;2
+pdf;2015;1
+xpath;2009;3
+regularization;2013;1
+automation;2013;10
+physics;2011;1
+computability;2014;8
+data encryption;2011;1
+networks;2011;12
+web services;2007;3
+pentium;1999;1
+artificial life;2014;2
+middleware;2008;1
+natural language processing;2010;1
+computing platforms;2009;1
+trust;2012;3
+verification;2009;1
+operating systems;2007;2
+wifi;1999;1
+organizations;2016;1
+surveillance;2006;1
+automation;2010;2
+physics;2002;1
+design;2007;3
+computability;2007;3
+networks;2004;2
+authorization;2013;3
+electronics;2014;1
+evaluation;1998;2
+architecture description languages;2014;1
+accessibility;2015;2
+coverage metrics;2010;1
+operating systems;2014;1
+sql server;2011;1
+placement;1998;1
+measurement;2009;2
+accessibility;2008;4
+basic;2001;2
+visibility;2010;1
+software development techniques;2012;1
+authorization;1999;1
+use cases;2012;1
+evaluation;2012;16
+accessibility;2001;1
+software architectures;2012;2
+mobile computing;2000;1
+data warehouses;2012;8
+scheduling;2006;4
+visibility;2013;1
+correctness;2013;2
+frameworks;2011;6
+reliability;2005;2
+hardware;2014;5
+clustering;2008;1
+agile software development;2015;1
+data streams;2005;1
+metrics;2005;3
+evaluation;2011;16
+education;2015;2
+discretization;1998;1
+outlook;2007;1
+software development methods;2013;1
+data warehouses;2005;6
+frameworks;2001;5
+consistency;2014;1
+frameworks;2012;3
+annotation;2014;3
+reliability;2010;2
+modeling and simulation;2008;1
+hardware;2005;1
+abstraction;2003;4
+regularization;2009;1
+evaluation;2002;8
+pointing;2013;3
+windows;2005;4
+data warehouses;2002;8
+virtual machines;2012;1
+vulnerability scanners;2013;1
+multithreading;2004;1
+parsing;2006;1
+correctness;2003;1
+garbage collection;2006;1
+frameworks;2005;2
+annotation;2007;1
+clustering;2006;1
+architectures;2004;2
+genetic programming;2009;8
+pointing;2004;2
+age;2005;14
+security and privacy;2014;1
+layering;2009;1
+annotation;2000;1
+functionality;2000;1
+itu;2009;3
+architectures;2013;12
+evaluation;2016;1
+database administration;2009;1
+pointing;1999;1
+age;2012;15
+design patterns;2013;1
+funding;2003;1
+availability;2014;10
+software architectures;2013;4
+economics;2013;2
+layering;2002;2
+engineering;2012;2
+rsa;2014;1
+functionality;2015;4
+information systems;2005;1
+itu;2014;3
+support vector machines;2013;2
+verification;2016;1
+discretization;2002;1
+texting;2003;2
+grid computing;2012;2
+funding;2010;2
+availability;2007;10
+fault tolerance;2015;2
+argonne national laboratory;1998;1
+engineering;2007;2
+robustness;2016;1
+wireless devices;2011;1
+topology;2000;1
+visualization;2013;1
+information systems;2010;1
+itu;2007;3
+concurrency;2008;2
+recursion;1999;1
+scheduling algorithms;2006;6
+marketing;2013;4
+age;1998;4
+availability;2000;1
+enumeration;2012;1
+validation;2010;1
+basic;1997;2
+trees;2015;1
+wireless devices;2012;1
+experimentation;2004;6
+personalization;1997;2
+visualization;2006;1
+programming interfaces;1998;1
+decision support systems;2015;1
+education;2004;1
+validation;2003;1
+boosting;2009;2
+monitors;2010;6
+robustness;2006;6
+estimation;2006;1
+experimentation;2013;12
+patterns;2010;1
+companies;2014;4
+performance;1999;5
+open source software;2014;2
+cryptography;2013;1
+sustainability;1999;1
+expert systems;2014;1
+monitors;2003;2
+dos;2003;2
+experimentation;2010;7
+patterns;2008;1
+completeness;2005;4
+performance;2000;4
+failure prediction;2012;1
+modis;2011;5
+network management;2007;1
+evolutionary algorithms;2010;2
+organizations;2011;3
+genetics;2007;2
+dos;2004;2
+computability;1994;2
+organizations;2006;2
+data structures;2000;1
+networks;1999;4
+measurement;2008;5
+men;2003;17
+completeness;2012;1
+buffering;2004;1
+linux;2012;1
+estimation;2012;1
+performance;2009;19
+information retrieval;2012;1
+modis;2012;1
+summarization;2012;1
+technologies;2005;2
+system administration;2010;1
+organizations;2012;1
+constraints;2009;2
+measurement;2001;3
+men;1992;1
+web services;2010;6
+business intelligence;2011;4
+completeness;2011;1
+logic;2004;1
+middleware;2007;1
+education;2007;1
+corba;2003;1
+verification;2006;1
+approximation;2014;1
+summarization;2003;3
+open source software;2015;2
+technologies;2012;2
+transducers;2010;1
+system administration;2013;1
+failure prediction;2015;2
+redundancy;2011;4
+clustering;2010;2
+wifi;2000;2
+automation;2007;3
+middleware;2014;1
+pdf;2014;1
+engineering;2016;2
+natural language processing;2012;1
+virtual machines;1995;1
+verification;2015;4
+synchronization;2008;2
+xpath;2010;1
+interpreters;2007;6
+automation;2012;2
+in-network processing;2011;1
+placement;2009;3
+computability;2013;11
+networks;2010;4
+authorization;2011;1
+documentation;2012;2
+artificial life;2013;2
+middleware;2009;1
+verification;2008;1
+operating systems;2004;1
+data modeling;2008;1
+sql server;2013;1
+physics;2003;1
+design;2000;1
+search-based software engineering;2015;1
+computability;2006;10
+networks;2003;2
+personalization;2014;4
+electronics;2015;1
+evaluation;1999;2
+men;2001;11
+uncertainty;2011;1
+accessibility;2014;10
+basic;2011;1
+reusability;2013;1
+coverage metrics;2009;1
+completeness;2002;2
+redundancy;1998;2
+design;2015;8
+facebook;2013;1
+clustering;1995;1
+integrated circuits;2003;1
+metrics;2008;1
+virtual machines;2009;1
+basic;2000;1
+mathematica;2014;2
+availability;2016;1
+intrusion detection systems;2011;2
+visibility;2011;2
+ethernet;2003;1
+memory management;2006;1
+computability;2016;3
+hardware;2008;2
+transaction processing performance council;2010;1
+use cases;2015;2
+metrics;2015;5
+evaluation;2013;16
+education;2012;5
+accessibility;2000;1
+data warehouses;2015;2
+scheduling;2007;1
+scanners;2009;3
+dynamic analysis;2007;1
+correctness;2014;3
+frameworks;2010;3
+vmware;2009;1
+hardware;2015;2
+metrics;2006;1
+access control;2014;2
+synchronization;2009;1
+pointing;2011;3
+age;2016;6
+data warehouses;2004;10
+penetration testing;2009;4
+fault tolerance;2016;1
+multithreading;2014;1
+authentication;2002;1
+consistency;2009;1
+correctness;2005;2
+frameworks;2003;3
+annotation;2013;1
+reliability;2013;8
+hardware;2006;1
+abstraction;2002;2
+architectures;1994;1
+evaluation;2003;7
+pointing;2002;2
+data warehouses;1997;2
+data management systems;2009;2
+e-learning;2013;1
+correctness;1996;1
+frameworks;2004;2
+application servers;2011;1
+annotation;2006;1
+web applications;2013;2
+hardware;1997;1
+abstraction;2011;8
+architectures;2003;2
+genetic programming;2008;12
+extraction, transformation and loading;2004;1
+age;2002;14
+windows;2013;3
+texting;2014;6
+funding;2005;1
+fault tolerance;2002;5
+data integration;2008;1
+query optimization;2005;1
+layering;2008;1
+documentation;2010;1
+functionality;2001;4
+artificial intelligence;2011;1
+itu;2008;2
+architectures;2012;9
+men;2006;20
+discretization;2008;1
+age;2013;21
+design patterns;2014;3
+texting;2005;3
+funding;2012;2
+availability;2013;4
+fault tolerance;2005;2
+validation;1999;2
+parsing;2005;1
+economics;2012;2
+engineering;2013;8
+rsa;2013;1
+monitors;1998;1
+functionality;2008;3
+abstraction;1995;2
+itu;2001;1
+marketing;2011;2
+discretization;2003;1
+windows;1995;1
+funding;2011;1
+availability;2006;7
+fault tolerance;2012;2
+trees;2005;1
+telecommunications;2001;2
+estimation;2011;3
+data mining;2013;1
+information systems;2013;2
+itu;2006;4
+concurrency;2009;1
+cryptography;2016;1
+marketing;2012;1
+age;1999;9
+rsa;2016;1
+data integration;1997;1
+validation;2013;4
+trees;2012;1
+robustness;2008;2
+experimentation;2007;3
+visualization;2005;1
+patterns;2011;1
+decision support systems;2014;2
+synchronization;1998;1
+education;1994;1
+cryptography;2011;1
+xilinx;2013;1
+fault tolerance;1998;2
+validation;2002;2
+publishing;2006;1
+monitors;2009;3
+robustness;2007;5
+experimentation;2012;10
+compilers;2001;1
+companies;2015;3
+performance;1998;3
+mobile phones;2010;1
+robustness;1998;2
+dos;2002;1
+matching;2015;2
+men;2013;35
+completeness;2006;1
+buffering;2014;2
+compilers;2014;1
+performance;2007;10
+education;2008;5
+repeaters;2009;1
+validation;2016;1
+organizations;2010;1
+constraints;2003;2
+siemens ag;1999;4
+personalization;2011;4
+men;2002;19
+network monitoring;2013;1
+completeness;2013;1
+logic;2014;2
+performance;2008;10
+education;2001;2
+data integration;2009;1
+technologies;2002;4
+failure prediction;2009;1
+organizations;2003;2
+constraints;2008;2
+genetics;2015;1
+placement;2004;3
+experimentation;1995;1
+men;1995;2
+web services;2011;6
+logic;2007;1
+linux;2004;2
+basic;1999;1
+modis;2004;1
+test collections;2002;1
+verification;2005;2
+technologies;2013;6
+evaluation;2004;6
+failure prediction;2014;1
+wifi;2003;2
+organizations;2004;1
+automation;2006;2
+embedded software;2012;2
+physics;2014;2
+computability;2011;12
+documentation;2013;1
+pdf;2013;1
+trust;2009;1
+verification;2014;4
+open source software;2007;2
+operating systems;2002;2
+b-trees;2001;1
+data modeling;2002;1
+automation;2015;3
+design;2014;13
+physics;2005;1
+perception;2012;1
+computability;2012;5
+data compression;2011;2
+networks;2009;3
+fortran;1998;1
+authorization;2008;1
+web services;2005;1
+main memory;2001;1
+men;2014;39
+coverage metrics;2007;1
+trust;2014;1
+operating systems;2005;1
+multi-agent systems;2006;1
+sql server;2012;1
+multi-agent systems;2007;1
+search-based software engineering;2014;1
+computability;2005;9
+networks;2002;3
+electronics;2012;1
+evaluation;1992;1
+accessibility;2013;10
+reusability;2014;2
+coverage metrics;2008;1
+trust;2007;1
+consistency;1997;1
+law;2013;1
+design;2008;7
+facebook;2014;1
+metrics;2009;3
+ranking;2012;1
+scheduling;2001;1
+correctness;2016;1
+ethernet;2002;1
+personalization;1998;2
+hardware;2009;1
+metrics;2000;1
+evaluation;2014;16
+accessibility;1999;1
+data warehouses;2014;2
+scheduling;2008;3
+information extraction;2008;4
+operating systems;1998;1
+email;2014;1
+authentication;2008;1
+correctness;2015;1
+frameworks;2009;1
+reliability;2007;2
+hardware;2000;2
+regularization;2012;2
+metrics;2007;2
+evaluation;2005;8
+pointing;2008;5
+mathematica;1999;2
+windows;2000;2
+data warehouses;2007;6
+penetration testing;2010;1
+authentication;2003;1
+synchronization;2014;3
+consistency;2008;2
+correctness;2006;1
+ethernet;2012;1
+frameworks;2002;4
+annotation;2012;3
+reliability;2012;8
+modis;1998;1
+surfacing;2010;1
+hardware;2007;1
+itu;1997;1
+smartphones;2013;1
+smalltalk;2009;1
+pointing;2003;2
+windows;2007;1
+texting;2016;1
+cryptography;2009;1
+powerpc;1995;1
+reconfigurable computing;2008;1
+e-learning;2010;1
+functionality;1995;1
+web applications;2012;1
+safety critical systems;2015;1
+architectures;2002;1
+genetic programming;2015;4
+age;2003;13
+windows;2014;1
+texting;2015;1
+machine learning;2013;2
+funding;2006;1
+fault tolerance;2003;2
+real-time schedulability;2001;1
+jsp;2009;4
+architecture description languages;2012;1
+functionality;2002;1
+lapack;2000;1
+bagging;2006;2
+itu;2011;1
+architectures;2011;14
+pointing;1997;1
+age;2010;7
+design patterns;2015;1
+texting;2006;2
+availability;2012;4
+validation;1998;1
+economics;2015;2
+functionality;2016;2
+rsa;2012;1
+documentation;2002;1
+experimentation;2016;1
+functionality;2009;1
+mobile devices;2008;1
+polymorphism;2007;2
+monitors;2007;1
+database administration;2002;1
