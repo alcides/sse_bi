@@ -54,16 +54,6 @@ Alcides Fonseca;Paulo Marques;1
 Paulo Marques;Alcides Fonseca;1
 Alcides Fonseca;Sven Stork;0
 Sven Stork;Alcides Fonseca;0
-Alcides Marques;Bruno Lucas Rino;0
-Bruno Lucas Rino;Alcides Marques;0
-Alcides Marques;Henrique Madeira;0
-Henrique Madeira;Alcides Marques;0
-Alexandre Alves;João Carreira;0
-João Carreira;Alexandre Alves;0
-Alexandre Alves;João Gabriel Silva;0
-João Gabriel Silva;Alexandre Alves;0
-Alexandre Alves;Luís Silva;0
-Luís Silva;Alexandre Alves;0
 Aline Maria Santos Andrade;Carlos Alberto Maziero;0
 Carlos Alberto Maziero;Aline Maria Santos Andrade;0
 Aline Maria Santos Andrade;Flávio Morais de Assis Silva;0
@@ -96,10 +86,6 @@ Ana Maria Ambrósio;Paulo C. Veras;2
 Paulo C. Veras;Ana Maria Ambrósio;2
 Ana Maria Ambrósio;Rodrigo P. Pontes;0
 Rodrigo P. Pontes;Ana Maria Ambrósio;0
-Anders Lyhne Christensen;João Brito;0
-João Brito;Anders Lyhne Christensen;0
-Anders Lyhne Christensen;João Gabriel Silva;0
-João Gabriel Silva;Anders Lyhne Christensen;0
 Aniello Napolitano;Gabriella Carrozza;1
 Gabriella Carrozza;Aniello Napolitano;1
 Aniello Napolitano;Joao Duraes;0
@@ -116,8 +102,8 @@ António Casimiro Costa;Filipe Araujo;1
 Filipe Araujo;António Casimiro Costa;1
 António Casimiro Costa;Henrique Madeira;2
 Henrique Madeira;António Casimiro Costa;2
-António Casimiro Costa;Marco Vieira;3
-Marco Vieira;António Casimiro Costa;3
+António Casimiro Costa;Marco Vieira;2
+Marco Vieira;António Casimiro Costa;2
 António Casimiro Costa;Mônica Dixit;0
 Mônica Dixit;António Casimiro Costa;0
 António Casimiro Costa;Nuno Laranjeiro;0
@@ -130,10 +116,6 @@ António Casimiro Costa;Samuel Neves;0
 Samuel Neves;António Casimiro Costa;0
 António Casimiro Costa;Serhiy Boychenko;0
 Serhiy Boychenko;António Casimiro Costa;0
-António Pessoa Magalhães;João Gabriel Silva;0
-João Gabriel Silva;António Pessoa Magalhães;0
-António Pessoa Magalhães;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;António Pessoa Magalhães;0
 Artur Andrzejak;Javier Alonso;0
 Javier Alonso;Artur Andrzejak;0
 Artur Andrzejak;Jordi Torres;0
@@ -182,12 +164,8 @@ Attila Marosi;Zoltán Balaton;1
 Zoltán Balaton;Attila Marosi;1
 Attila Marosi;Zoltán Farkas;1
 Zoltán Farkas;Attila Marosi;1
-Bart Veer;João Gabriel Silva;1
-João Gabriel Silva;Bart Veer;1
-Bart Veer;Luís Silva;1
-Luís Silva;Bart Veer;1
-Bipin C. Desai;Jorge Bernardino;2
-Jorge Bernardino;Bipin C. Desai;2
+Bipin C. Desai;Jorge Bernardino;1
+Jorge Bernardino;Bipin C. Desai;1
 Bruno Cabral;Alcides Fonseca;2
 Alcides Fonseca;Bruno Cabral;2
 Bruno Cabral;Jonathan Aldrich;0
@@ -196,18 +174,14 @@ Bruno Cabral;Jorge Bernardino;2
 Jorge Bernardino;Bruno Cabral;2
 Bruno Cabral;João Pedro Maia Rafael;1
 João Pedro Maia Rafael;Bruno Cabral;1
-Bruno Cabral;Luís Silva;1
-Luís Silva;Bruno Cabral;1
+Bruno Cabral;Luís Silva;0
+Luís Silva;Bruno Cabral;0
 Bruno Cabral;Marco Vieira;2
 Marco Vieira;Bruno Cabral;2
-Bruno Cabral;Paulo Marques;5
-Paulo Marques;Bruno Cabral;5
+Bruno Cabral;Paulo Marques;4
+Paulo Marques;Bruno Cabral;4
 Bruno Cabral;Paulo Sacramento;1
 Paulo Sacramento;Bruno Cabral;1
-Bruno Lucas Rino;Alcides Marques;0
-Alcides Marques;Bruno Lucas Rino;0
-Bruno Lucas Rino;Henrique Madeira;0
-Henrique Madeira;Bruno Lucas Rino;0
 Bruno Miguel Luis;José Carlos Bregieiro Ribeiro;0
 José Carlos Bregieiro Ribeiro;Bruno Miguel Luis;0
 Bruno Miguel Luis;Mário Alberto Zenha Rela;0
@@ -228,14 +202,6 @@ Cristina Gacek;António Casimiro Costa;0
 António Casimiro Costa;Cristina Gacek;0
 Cristina Gacek;Rogério de Lemos;1
 Rogério de Lemos;Cristina Gacek;1
-D. Rennels;Diamantino Costa;0
-Diamantino Costa;D. Rennels;0
-D. Rennels;F. Moreira;0
-F. Moreira;D. Rennels;0
-D. Rennels;Henrique Madeira;0
-Henrique Madeira;D. Rennels;0
-D. Rennels;R. R. Some;0
-R. R. Some;D. Rennels;0
 D. Weyns;J. Andersson;1
 J. Andersson;D. Weyns;1
 D. Weyns;Rogério de Lemos;1
@@ -318,42 +284,14 @@ Derrik Kondo;Patricio Domingues;2
 Patricio Domingues;Derrik Kondo;2
 Derrik Kondo;Paul Malecot;0
 Paul Malecot;Derrik Kondo;0
-Diamantino Costa;D. Rennels;0
-D. Rennels;Diamantino Costa;0
-Diamantino Costa;F. Moreira;1
-F. Moreira;Diamantino Costa;1
-Diamantino Costa;Fernando Aldea-Montero;0
-Fernando Aldea-Montero;Diamantino Costa;0
-Diamantino Costa;Han van Loon;0
-Han van Loon;Diamantino Costa;0
-Diamantino Costa;Henrique Madeira;7
-Henrique Madeira;Diamantino Costa;7
-Diamantino Costa;João Carreira;2
-João Carreira;Diamantino Costa;2
-Diamantino Costa;João Gabriel Silva;3
-João Gabriel Silva;Diamantino Costa;3
-Diamantino Costa;João Pedro Costa;0
-João Pedro Costa;Diamantino Costa;0
-Diamantino Costa;Knud Pedersen;0
-Knud Pedersen;Diamantino Costa;0
-Diamantino Costa;Luis Henriques;1
-Luis Henriques;Diamantino Costa;1
-Diamantino Costa;Manuel Rodríguez;0
-Manuel Rodríguez;Diamantino Costa;0
-Diamantino Costa;Marco Vieira;2
-Marco Vieira;Diamantino Costa;2
-Diamantino Costa;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Diamantino Costa;0
-Diamantino Costa;Patricia Rodríguez-Dapena;0
-Patricia Rodríguez-Dapena;Diamantino Costa;0
-Diamantino Costa;R. R. Some;0
-R. R. Some;Diamantino Costa;0
+Diamantino Costa;Henrique Madeira;1
+Henrique Madeira;Diamantino Costa;1
+Diamantino Costa;Luis Henriques;0
+Luis Henriques;Diamantino Costa;0
 Diamantino Costa;Ricardo Barbosa;1
 Ricardo Barbosa;Diamantino Costa;1
-Diamantino Costa;Ricardo Maia;1
-Ricardo Maia;Diamantino Costa;1
-Diamantino Costa;Tiago Rilho;1
-Tiago Rilho;Diamantino Costa;1
+Diamantino Costa;Ricardo Maia;0
+Ricardo Maia;Diamantino Costa;0
 Diogo Ferreira;Attila Marosi;0
 Attila Marosi;Diogo Ferreira;0
 Diogo Ferreira;David Santiago;0
@@ -464,40 +402,22 @@ Etienne Urbah;Zoltán Farkas;1
 Zoltán Farkas;Etienne Urbah;1
 Eudisley Gomes dos Anjos;Mário Alberto Zenha Rela;2
 Mário Alberto Zenha Rela;Eudisley Gomes dos Anjos;2
-F. Moreira;D. Rennels;0
-D. Rennels;F. Moreira;0
-F. Moreira;Diamantino Costa;1
-Diamantino Costa;F. Moreira;1
-F. Moreira;Henrique Madeira;3
-Henrique Madeira;F. Moreira;3
-F. Moreira;João Carreira;0
-João Carreira;F. Moreira;0
-F. Moreira;João Gabriel Silva;2
-João Gabriel Silva;F. Moreira;2
+F. Moreira;Henrique Madeira;0
+Henrique Madeira;F. Moreira;0
 F. Moreira;Juan Carlos García;0
 Juan Carlos García;F. Moreira;0
 F. Moreira;Karama Kanoun;0
 Karama Kanoun;F. Moreira;0
 F. Moreira;Mario Dal Cin;0
 Mario Dal Cin;F. Moreira;0
-F. Moreira;Mário Alberto Zenha Rela;1
-Mário Alberto Zenha Rela;F. Moreira;1
-F. Moreira;Paula Furtado;0
-Paula Furtado;F. Moreira;0
-F. Moreira;R. R. Some;0
-R. R. Some;F. Moreira;0
-Fernando Aldea-Montero;Diamantino Costa;0
-Diamantino Costa;Fernando Aldea-Montero;0
-Fernando Aldea-Montero;Han van Loon;1
-Han van Loon;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;João Gabriel Silva;1
-João Gabriel Silva;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;Knud Pedersen;0
-Knud Pedersen;Fernando Aldea-Montero;0
-Fernando Aldea-Montero;Manuel Rodríguez;1
-Manuel Rodríguez;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;Fernando Aldea-Montero;1
+Fernando Aldea-Montero;Han van Loon;0
+Han van Loon;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;João Gabriel Silva;0
+João Gabriel Silva;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;Manuel Rodríguez;0
+Manuel Rodríguez;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;Fernando Aldea-Montero;0
 Fernando Barros;Filipe Araujo;1
 Filipe Araujo;Fernando Barros;1
 Fernando Barros;Naghmeh Ramezani Ivaki;1
@@ -510,8 +430,6 @@ Fernando Costa;Ian Taylor;0
 Ian Taylor;Fernando Costa;0
 Fernando Costa;Luís Silva;2
 Luís Silva;Fernando Costa;2
-Fernando Elson Mourão;João Gabriel Silva;0
-João Gabriel Silva;Fernando Elson Mourão;0
 Filipe Araujo;Ad Emmen;1
 Ad Emmen;Filipe Araujo;1
 Filipe Araujo;Alvaro E. Arenas;1
@@ -614,10 +532,6 @@ Francisco Mónaco;Marco Vieira;0
 Marco Vieira;Francisco Mónaco;0
 Francisco Mónaco;Nuno Antunes;0
 Nuno Antunes;Francisco Mónaco;0
-Francisco Soares;João Gabriel Silva;0
-João Gabriel Silva;Francisco Soares;0
-Francisco Soares;Luís Silva;0
-Luís Silva;Francisco Soares;0
 Franck Capello;Derrik Kondo;0
 Derrik Kondo;Franck Capello;0
 Franck Capello;Filipe Araujo;0
@@ -814,40 +728,30 @@ Haiwu He;Zoltán Balaton;0
 Zoltán Balaton;Haiwu He;0
 Haiwu He;Zoltán Farkas;0
 Zoltán Farkas;Haiwu He;0
-Han van Loon;Diamantino Costa;0
-Diamantino Costa;Han van Loon;0
-Han van Loon;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;Han van Loon;1
-Han van Loon;João Gabriel Silva;1
-João Gabriel Silva;Han van Loon;1
-Han van Loon;Knud Pedersen;0
-Knud Pedersen;Han van Loon;0
-Han van Loon;Manuel Rodríguez;1
-Manuel Rodríguez;Han van Loon;1
-Han van Loon;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;Han van Loon;1
+Han van Loon;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;Han van Loon;0
+Han van Loon;João Gabriel Silva;0
+João Gabriel Silva;Han van Loon;0
+Han van Loon;Manuel Rodríguez;0
+Manuel Rodríguez;Han van Loon;0
+Han van Loon;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;Han van Loon;0
 Henrique Madeira;A. Pataricza;1
 A. Pataricza;Henrique Madeira;1
 Henrique Madeira;Afonso Comba de Araújo Neto;1
 Afonso Comba de Araújo Neto;Henrique Madeira;1
-Henrique Madeira;Alcides Marques;0
-Alcides Marques;Henrique Madeira;0
 Henrique Madeira;Ana Maria Ambrósio;2
 Ana Maria Ambrósio;Henrique Madeira;2
 Henrique Madeira;António Casimiro Costa;2
 António Casimiro Costa;Henrique Madeira;2
-Henrique Madeira;Bruno Lucas Rino;0
-Bruno Lucas Rino;Henrique Madeira;0
-Henrique Madeira;D. Rennels;0
-D. Rennels;Henrique Madeira;0
-Henrique Madeira;Diamantino Costa;7
-Diamantino Costa;Henrique Madeira;7
+Henrique Madeira;Diamantino Costa;1
+Diamantino Costa;Henrique Madeira;1
 Henrique Madeira;Eliane Martins;3
 Eliane Martins;Henrique Madeira;3
 Henrique Madeira;Emilia Villani;2
 Emilia Villani;Henrique Madeira;2
-Henrique Madeira;F. Moreira;3
-F. Moreira;Henrique Madeira;3
+Henrique Madeira;F. Moreira;0
+F. Moreira;Henrique Madeira;0
 Henrique Madeira;Filipe Araujo;0
 Filipe Araujo;Henrique Madeira;0
 Henrique Madeira;G. Pintér;1
@@ -856,44 +760,40 @@ Henrique Madeira;I. Majzik;1
 I. Majzik;Henrique Madeira;1
 Henrique Madeira;Ivano Irrera;1
 Ivano Irrera;Henrique Madeira;1
-Henrique Madeira;J. Arlat;2
-J. Arlat;Henrique Madeira;2
-Henrique Madeira;Joao Duraes;14
-Joao Duraes;Henrique Madeira;14
+Henrique Madeira;Joao Duraes;9
+Joao Duraes;Henrique Madeira;9
 Henrique Madeira;Joaquim Macedo;3
 Joaquim Macedo;Henrique Madeira;3
 Henrique Madeira;Johan Karlsson;0
 Johan Karlsson;Henrique Madeira;0
-Henrique Madeira;Jorge Bernardino;6
-Jorge Bernardino;Henrique Madeira;6
+Henrique Madeira;Jorge Bernardino;1
+Jorge Bernardino;Henrique Madeira;1
 Henrique Madeira;Jorge Vieira;3
 Jorge Vieira;Henrique Madeira;3
 Henrique Madeira;José Carlos Coelho Martins da Fonseca;6
 José Carlos Coelho Martins da Fonseca;Henrique Madeira;6
 Henrique Madeira;João Carlos Cunha;0
 João Carlos Cunha;Henrique Madeira;0
-Henrique Madeira;João Carreira;3
-João Carreira;Henrique Madeira;3
-Henrique Madeira;João Gabriel Silva;11
-João Gabriel Silva;Henrique Madeira;11
-Henrique Madeira;João Pedro Costa;1
-João Pedro Costa;Henrique Madeira;1
+Henrique Madeira;João Gabriel Silva;2
+João Gabriel Silva;Henrique Madeira;2
+Henrique Madeira;João Pedro Costa;0
+João Pedro Costa;Henrique Madeira;0
 Henrique Madeira;Juan Carlos García;0
 Juan Carlos García;Henrique Madeira;0
-Henrique Madeira;Karama Kanoun;2
-Karama Kanoun;Henrique Madeira;2
-Henrique Madeira;Luis Henriques;1
-Luis Henriques;Henrique Madeira;1
-Henrique Madeira;Luís Silva;1
-Luís Silva;Henrique Madeira;1
-Henrique Madeira;Marco Aurélio Costa;2
-Marco Aurélio Costa;Henrique Madeira;2
-Henrique Madeira;Marco Vieira;40
-Marco Vieira;Henrique Madeira;40
+Henrique Madeira;Karama Kanoun;0
+Karama Kanoun;Henrique Madeira;0
+Henrique Madeira;Luis Henriques;0
+Luis Henriques;Henrique Madeira;0
+Henrique Madeira;Luís Silva;0
+Luís Silva;Henrique Madeira;0
+Henrique Madeira;Marco Aurélio Costa;1
+Marco Aurélio Costa;Henrique Madeira;1
+Henrique Madeira;Marco Vieira;31
+Marco Vieira;Henrique Madeira;31
 Henrique Madeira;Mario Dal Cin;0
 Mario Dal Cin;Henrique Madeira;0
-Henrique Madeira;Mário Alberto Zenha Rela;4
-Mário Alberto Zenha Rela;Henrique Madeira;4
+Henrique Madeira;Mário Alberto Zenha Rela;0
+Mário Alberto Zenha Rela;Henrique Madeira;0
 Henrique Madeira;Naaliel Mendes;4
 Naaliel Mendes;Henrique Madeira;4
 Henrique Madeira;Nuno Antunes;1
@@ -904,24 +804,10 @@ Henrique Madeira;Nuno Silva;1
 Nuno Silva;Henrique Madeira;1
 Henrique Madeira;Olga Marina Freitas Craveiro;3
 Olga Marina Freitas Craveiro;Henrique Madeira;3
-Henrique Madeira;Paula Furtado;0
-Paula Furtado;Henrique Madeira;0
-Henrique Madeira;Paula Prata;1
-Paula Prata;Henrique Madeira;1
+Henrique Madeira;Paula Prata;0
+Paula Prata;Henrique Madeira;0
 Henrique Madeira;Paulo C. Veras;2
 Paulo C. Veras;Henrique Madeira;2
-Henrique Madeira;Pedro  Nunes da Costa;0
-Pedro  Nunes da Costa;Henrique Madeira;0
-Henrique Madeira;Pedro Bizarro;1
-Pedro Bizarro;Henrique Madeira;1
-Henrique Madeira;Pedro Furtado;4
-Pedro Furtado;Henrique Madeira;4
-Henrique Madeira;Pedro Gil;0
-Pedro Gil;Henrique Madeira;0
-Henrique Madeira;Philip Koopman;1
-Philip Koopman;Henrique Madeira;1
-Henrique Madeira;R. R. Some;0
-R. R. Some;Henrique Madeira;0
 Henrique Madeira;Raquel Rute Duarte Almeida;2
 Raquel Rute Duarte Almeida;Henrique Madeira;2
 Henrique Madeira;Raul Barbosa;1
@@ -930,24 +816,12 @@ Henrique Madeira;Regina Moraes;3
 Regina Moraes;Henrique Madeira;3
 Henrique Madeira;Ricardo Barbosa;2
 Ricardo Barbosa;Henrique Madeira;2
-Henrique Madeira;Ricardo Maia;1
-Ricardo Maia;Henrique Madeira;1
+Henrique Madeira;Ricardo Maia;0
+Ricardo Maia;Henrique Madeira;0
 Henrique Madeira;Rodrigo P. Pontes;0
 Rodrigo P. Pontes;Henrique Madeira;0
-Henrique Madeira;Tiago Rilho;1
-Tiago Rilho;Henrique Madeira;1
-Hernani Pedroso;João Gabriel Silva;2
-João Gabriel Silva;Hernani Pedroso;2
-Hernani Pedroso;Luís Silva;2
-Luís Silva;Hernani Pedroso;2
-Hernani Pedroso;Paulo Marques;1
-Paulo Marques;Hernani Pedroso;1
-Hernani Pedroso;Paulo Martins;0
-Paulo Martins;Hernani Pedroso;0
-Hernani Pedroso;Tiago Baptista;0
-Tiago Baptista;Hernani Pedroso;0
-Hernani Pedroso;Vitor Batista;0
-Vitor Batista;Hernani Pedroso;0
+Hernani Pedroso;Paulo Marques;0
+Paulo Marques;Hernani Pedroso;0
 Hugo Miranda;Filipe Araujo;0
 Filipe Araujo;Hugo Miranda;0
 I. Majzik;A. Pataricza;1
@@ -1056,12 +930,6 @@ J. Andersson;Rogério de Lemos;1
 Rogério de Lemos;J. Andersson;1
 J. Andersson;S. Malek;1
 S. Malek;J. Andersson;1
-J. Arlat;Henrique Madeira;2
-Henrique Madeira;J. Arlat;2
-J. Arlat;Karama Kanoun;1
-Karama Kanoun;J. Arlat;1
-J. Arlat;Pedro Gil;0
-Pedro Gil;J. Arlat;0
 Javier Alonso;Artur Andrzejak;0
 Artur Andrzejak;Javier Alonso;0
 Javier Alonso;Jordi Torres;0
@@ -1094,16 +962,16 @@ Joao Duraes;Eliane Martins;1
 Eliane Martins;Joao Duraes;1
 Joao Duraes;Gabriella Carrozza;0
 Gabriella Carrozza;Joao Duraes;0
-Joao Duraes;Henrique Madeira;14
-Henrique Madeira;Joao Duraes;14
+Joao Duraes;Henrique Madeira;9
+Henrique Madeira;Joao Duraes;9
 Joao Duraes;Ivano Irrera;2
 Ivano Irrera;Joao Duraes;2
 Joao Duraes;José Carlos Coelho Martins da Fonseca;0
 José Carlos Coelho Martins da Fonseca;Joao Duraes;0
 Joao Duraes;João Carlos Cunha;0
 João Carlos Cunha;Joao Duraes;0
-Joao Duraes;Marco Vieira;8
-Marco Vieira;Joao Duraes;8
+Joao Duraes;Marco Vieira;7
+Marco Vieira;Joao Duraes;7
 Joao Duraes;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Joao Duraes;0
 Joao Duraes;Naaliel Mendes;3
@@ -1146,32 +1014,24 @@ Jordi Torres;Javier Alonso;0
 Javier Alonso;Jordi Torres;0
 Jordi Torres;Luís Silva;0
 Luís Silva;Jordi Torres;0
-Jorge Bernardino;Bipin C. Desai;2
-Bipin C. Desai;Jorge Bernardino;2
+Jorge Bernardino;Bipin C. Desai;1
+Bipin C. Desai;Jorge Bernardino;1
 Jorge Bernardino;Bruno Cabral;2
 Bruno Cabral;Jorge Bernardino;2
-Jorge Bernardino;Henrique Madeira;6
-Henrique Madeira;Jorge Bernardino;6
-Jorge Bernardino;Jorge Vieira;2
-Jorge Vieira;Jorge Bernardino;2
-Jorge Bernardino;João Gabriel Silva;0
-João Gabriel Silva;Jorge Bernardino;0
-Jorge Bernardino;João Silva;0
-João Silva;Jorge Bernardino;0
-Jorge Bernardino;Luís Silva;0
-Luís Silva;Jorge Bernardino;0
-Jorge Bernardino;Marco Aurélio Costa;0
-Marco Aurélio Costa;Jorge Bernardino;0
+Jorge Bernardino;Henrique Madeira;1
+Henrique Madeira;Jorge Bernardino;1
+Jorge Bernardino;Jorge Vieira;1
+Jorge Vieira;Jorge Bernardino;1
 Jorge Bernardino;Marco Vieira;10
 Marco Vieira;Jorge Bernardino;10
 Jorge Bernardino;Nuno Laranjeiro;0
 Nuno Laranjeiro;Jorge Bernardino;0
-Jorge Bernardino;Pedro Furtado;8
-Pedro Furtado;Jorge Bernardino;8
+Jorge Bernardino;Pedro Furtado;6
+Pedro Furtado;Jorge Bernardino;6
 Jorge Bernardino;Raquel Rute Duarte Almeida;1
 Raquel Rute Duarte Almeida;Jorge Bernardino;1
-Jorge Bernardino;Ricardo Jorge Santos;13
-Ricardo Jorge Santos;Jorge Bernardino;13
+Jorge Bernardino;Ricardo Jorge Santos;12
+Ricardo Jorge Santos;Jorge Bernardino;12
 Jorge Bernardino;Rui André Correia de Oliveira;0
 Rui André Correia de Oliveira;Jorge Bernardino;0
 Jorge Farinha;Attila Marosi;0
@@ -1204,14 +1064,12 @@ Jorge Farinha;Zoltán Farkas;0
 Zoltán Farkas;Jorge Farinha;0
 Jorge Vieira;Henrique Madeira;3
 Henrique Madeira;Jorge Vieira;3
-Jorge Vieira;Jorge Bernardino;2
-Jorge Bernardino;Jorge Vieira;2
+Jorge Vieira;Jorge Bernardino;1
+Jorge Bernardino;Jorge Vieira;1
 Jorge Vieira;Marco Aurélio Costa;1
 Marco Aurélio Costa;Jorge Vieira;1
 Jorge Vieira;Marco Vieira;2
 Marco Vieira;Jorge Vieira;2
-Jorge Vieira;Pedro Furtado;0
-Pedro Furtado;Jorge Vieira;0
 Jorge Vieira;Raquel Rute Duarte Almeida;1
 Raquel Rute Duarte Almeida;Jorge Vieira;1
 José Carlos Bregieiro Ribeiro;Ana Filipa Nogueira;2
@@ -1254,22 +1112,16 @@ José Luis Guerra da Rocha Nunes;Mário Alberto Zenha Rela;2
 Mário Alberto Zenha Rela;José Luis Guerra da Rocha Nunes;2
 José Luis Guerra da Rocha Nunes;Raul Barbosa;1
 Raul Barbosa;José Luis Guerra da Rocha Nunes;1
-João Brito;Anders Lyhne Christensen;0
-Anders Lyhne Christensen;João Brito;0
-João Brito;João Gabriel Silva;0
-João Gabriel Silva;João Brito;0
 João Carlos Cunha;Henrique Madeira;0
 Henrique Madeira;João Carlos Cunha;0
 João Carlos Cunha;Joao Duraes;0
 Joao Duraes;João Carlos Cunha;0
 João Carlos Cunha;José Luis Guerra da Rocha Nunes;2
 José Luis Guerra da Rocha Nunes;João Carlos Cunha;2
-João Carlos Cunha;João Gabriel Silva;3
-João Gabriel Silva;João Carlos Cunha;3
 João Carlos Cunha;Marco Vieira;3
 Marco Vieira;João Carlos Cunha;3
-João Carlos Cunha;Mário Alberto Zenha Rela;6
-Mário Alberto Zenha Rela;João Carlos Cunha;6
+João Carlos Cunha;Mário Alberto Zenha Rela;4
+Mário Alberto Zenha Rela;João Carlos Cunha;4
 João Carlos Cunha;Nuno Antunes;1
 Nuno Antunes;João Carlos Cunha;1
 João Carlos Cunha;Nuno Silva;0
@@ -1278,136 +1130,46 @@ João Carlos Cunha;Raul Barbosa;1
 Raul Barbosa;João Carlos Cunha;1
 João Carlos Cunha;Ricardo Barbosa;1
 Ricardo Barbosa;João Carlos Cunha;1
-João Carreira;Alexandre Alves;0
-Alexandre Alves;João Carreira;0
-João Carreira;Diamantino Costa;2
-Diamantino Costa;João Carreira;2
-João Carreira;F. Moreira;0
-F. Moreira;João Carreira;0
-João Carreira;Henrique Madeira;3
-Henrique Madeira;João Carreira;3
-João Carreira;João Gabriel Silva;5
-João Gabriel Silva;João Carreira;5
-João Carreira;Koen Langendoen;0
-Koen Langendoen;João Carreira;0
-João Carreira;Luís Silva;1
-Luís Silva;João Carreira;1
-João Gabriel Silva;Alexandre Alves;0
-Alexandre Alves;João Gabriel Silva;0
 João Gabriel Silva;Aline Maria Santos Andrade;0
 Aline Maria Santos Andrade;João Gabriel Silva;0
-João Gabriel Silva;Anders Lyhne Christensen;0
-Anders Lyhne Christensen;João Gabriel Silva;0
-João Gabriel Silva;António Pessoa Magalhães;0
-António Pessoa Magalhães;João Gabriel Silva;0
-João Gabriel Silva;Bart Veer;1
-Bart Veer;João Gabriel Silva;1
 João Gabriel Silva;Carlos Alberto Maziero;0
 Carlos Alberto Maziero;João Gabriel Silva;0
-João Gabriel Silva;Diamantino Costa;3
-Diamantino Costa;João Gabriel Silva;3
-João Gabriel Silva;F. Moreira;2
-F. Moreira;João Gabriel Silva;2
-João Gabriel Silva;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;João Gabriel Silva;1
-João Gabriel Silva;Fernando Elson Mourão;0
-Fernando Elson Mourão;João Gabriel Silva;0
+João Gabriel Silva;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;João Gabriel Silva;0
 João Gabriel Silva;Flávio Morais de Assis Silva;0
 Flávio Morais de Assis Silva;João Gabriel Silva;0
-João Gabriel Silva;Francisco Soares;0
-Francisco Soares;João Gabriel Silva;0
-João Gabriel Silva;Han van Loon;1
-Han van Loon;João Gabriel Silva;1
-João Gabriel Silva;Henrique Madeira;11
-Henrique Madeira;João Gabriel Silva;11
-João Gabriel Silva;Hernani Pedroso;2
-Hernani Pedroso;João Gabriel Silva;2
+João Gabriel Silva;Han van Loon;0
+Han van Loon;João Gabriel Silva;0
+João Gabriel Silva;Henrique Madeira;2
+Henrique Madeira;João Gabriel Silva;2
 João Gabriel Silva;Johan Karlsson;0
 Johan Karlsson;João Gabriel Silva;0
-João Gabriel Silva;Jorge Bernardino;0
-Jorge Bernardino;João Gabriel Silva;0
-João Gabriel Silva;João Brito;0
-João Brito;João Gabriel Silva;0
-João Gabriel Silva;João Carlos Cunha;3
-João Carlos Cunha;João Gabriel Silva;3
-João Gabriel Silva;João Carreira;5
-João Carreira;João Gabriel Silva;5
 João Gabriel Silva;João Pedro Costa;0
 João Pedro Costa;João Gabriel Silva;0
-João Gabriel Silva;Klaus Echtle;0
-Klaus Echtle;João Gabriel Silva;0
-João Gabriel Silva;Knud Pedersen;0
-Knud Pedersen;João Gabriel Silva;0
-João Gabriel Silva;Koen Langendoen;0
-Koen Langendoen;João Gabriel Silva;0
-João Gabriel Silva;Luís Silva;32
-Luís Silva;João Gabriel Silva;32
-João Gabriel Silva;Lyndon Clarke;1
-Lyndon Clarke;João Gabriel Silva;1
-João Gabriel Silva;Manuel Rodríguez;1
-Manuel Rodríguez;João Gabriel Silva;1
-João Gabriel Silva;Marco Vieira;0
-Marco Vieira;João Gabriel Silva;0
-João Gabriel Silva;Mário Alberto Zenha Rela;7
-Mário Alberto Zenha Rela;João Gabriel Silva;7
-João Gabriel Silva;Nuno Fonseca;0
-Nuno Fonseca;João Gabriel Silva;0
-João Gabriel Silva;Nuno Santos;1
-Nuno Santos;João Gabriel Silva;1
-João Gabriel Silva;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;João Gabriel Silva;1
-João Gabriel Silva;Patricio Domingues;1
-Patricio Domingues;João Gabriel Silva;1
-João Gabriel Silva;Paula Furtado;0
-Paula Furtado;João Gabriel Silva;0
-João Gabriel Silva;Paula Prata;2
-Paula Prata;João Gabriel Silva;2
-João Gabriel Silva;Paulo Marques;8
-Paulo Marques;João Gabriel Silva;8
-João Gabriel Silva;Paulo Martins;1
-Paulo Martins;João Gabriel Silva;1
-João Gabriel Silva;Paulo Santos;0
-Paulo Santos;João Gabriel Silva;0
-João Gabriel Silva;Pedro  Nunes da Costa;0
-Pedro  Nunes da Costa;João Gabriel Silva;0
-João Gabriel Silva;Pedro Bizarro;2
-Pedro Bizarro;João Gabriel Silva;2
-João Gabriel Silva;Pedro Furtado;0
-Pedro Furtado;João Gabriel Silva;0
-João Gabriel Silva;Pedro Silva;0
-Pedro Silva;João Gabriel Silva;0
-João Gabriel Silva;Raul Fonseca;1
-Raul Fonseca;João Gabriel Silva;1
-João Gabriel Silva;Simon Chapple;2
-Simon Chapple;João Gabriel Silva;2
-João Gabriel Silva;Tiago Baptista;0
-Tiago Baptista;João Gabriel Silva;0
-João Gabriel Silva;Vitor Batista;1
-Vitor Batista;João Gabriel Silva;1
-João Gabriel Silva;Vítor Manuel Noronha Távora;1
-Vítor Manuel Noronha Távora;João Gabriel Silva;1
-João Pedro Costa;Diamantino Costa;0
-Diamantino Costa;João Pedro Costa;0
-João Pedro Costa;Henrique Madeira;1
-Henrique Madeira;João Pedro Costa;1
+João Gabriel Silva;Luís Silva;1
+Luís Silva;João Gabriel Silva;1
+João Gabriel Silva;Manuel Rodríguez;0
+Manuel Rodríguez;João Gabriel Silva;0
+João Gabriel Silva;Mário Alberto Zenha Rela;0
+Mário Alberto Zenha Rela;João Gabriel Silva;0
+João Gabriel Silva;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;João Gabriel Silva;0
+João Gabriel Silva;Patricio Domingues;0
+Patricio Domingues;João Gabriel Silva;0
+João Gabriel Silva;Paula Prata;0
+Paula Prata;João Gabriel Silva;0
+João Pedro Costa;Henrique Madeira;0
+Henrique Madeira;João Pedro Costa;0
 João Pedro Costa;José Cecílio;6
 José Cecílio;João Pedro Costa;6
 João Pedro Costa;João Gabriel Silva;0
 João Gabriel Silva;João Pedro Costa;0
-João Pedro Costa;Marco Vieira;1
-Marco Vieira;João Pedro Costa;1
-João Pedro Costa;Pedro Furtado;11
-Pedro Furtado;João Pedro Costa;11
+João Pedro Costa;Pedro Furtado;8
+Pedro Furtado;João Pedro Costa;8
 João Pedro Maia Rafael;Alcides Fonseca;1
 Alcides Fonseca;João Pedro Maia Rafael;1
 João Pedro Maia Rafael;Bruno Cabral;1
 Bruno Cabral;João Pedro Maia Rafael;1
-João Silva;Jorge Bernardino;0
-Jorge Bernardino;João Silva;0
-João Silva;Luís Silva;1
-Luís Silva;João Silva;1
-João Silva;Paulo Marques;0
-Paulo Marques;João Silva;0
 Juan A. Gomez-Pulido;David Pereira;0
 David Pereira;Juan A. Gomez-Pulido;0
 Juan A. Gomez-Pulido;Juan M. Sánchez-Pérez;0
@@ -1480,40 +1242,20 @@ Kalinka Branco;Nuno Antunes;0
 Nuno Antunes;Kalinka Branco;0
 Karama Kanoun;F. Moreira;0
 F. Moreira;Karama Kanoun;0
-Karama Kanoun;Henrique Madeira;2
-Henrique Madeira;Karama Kanoun;2
-Karama Kanoun;J. Arlat;1
-J. Arlat;Karama Kanoun;1
+Karama Kanoun;Henrique Madeira;0
+Henrique Madeira;Karama Kanoun;0
 Karama Kanoun;Juan Carlos García;0
 Juan Carlos García;Karama Kanoun;0
 Karama Kanoun;Mario Dal Cin;0
 Mario Dal Cin;Karama Kanoun;0
-Klaus Echtle;João Gabriel Silva;0
-João Gabriel Silva;Klaus Echtle;0
-Knud Pedersen;Diamantino Costa;0
-Diamantino Costa;Knud Pedersen;0
-Knud Pedersen;Fernando Aldea-Montero;0
-Fernando Aldea-Montero;Knud Pedersen;0
-Knud Pedersen;Han van Loon;0
-Han van Loon;Knud Pedersen;0
-Knud Pedersen;João Gabriel Silva;0
-João Gabriel Silva;Knud Pedersen;0
-Knud Pedersen;Manuel Rodríguez;0
-Manuel Rodríguez;Knud Pedersen;0
-Knud Pedersen;Patricia Rodríguez-Dapena;0
-Patricia Rodríguez-Dapena;Knud Pedersen;0
-Koen Langendoen;João Carreira;0
-João Carreira;Koen Langendoen;0
-Koen Langendoen;João Gabriel Silva;0
-João Gabriel Silva;Koen Langendoen;0
-Luis Henriques;Diamantino Costa;1
-Diamantino Costa;Luis Henriques;1
-Luis Henriques;Henrique Madeira;1
-Henrique Madeira;Luis Henriques;1
+Luis Henriques;Diamantino Costa;0
+Diamantino Costa;Luis Henriques;0
+Luis Henriques;Henrique Madeira;0
+Henrique Madeira;Luis Henriques;0
 Luis Henriques;Ricardo Barbosa;0
 Ricardo Barbosa;Luis Henriques;0
-Luis Henriques;Ricardo Maia;1
-Ricardo Maia;Luis Henriques;1
+Luis Henriques;Ricardo Maia;0
+Ricardo Maia;Luis Henriques;0
 Luis Orleans;Carlo Emmanoel Tolla de Oliveira;0
 Carlo Emmanoel Tolla de Oliveira;Luis Orleans;0
 Luis Orleans;Pedro Furtado;1
@@ -1524,8 +1266,6 @@ Luis Pinto;Tiago Santos;0
 Tiago Santos;Luis Pinto;0
 Luís Eduardo Santos;Marco Vieira;0
 Marco Vieira;Luís Eduardo Santos;0
-Luís Eduardo Santos;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Luís Eduardo Santos;0
 Luís Pureza;José Feiteirinha;0
 José Feiteirinha;Luís Pureza;0
 Luís Pureza;Mauro Pecchioli;0
@@ -1536,18 +1276,14 @@ Luís Pureza;Paulo Marques;0
 Paulo Marques;Luís Pureza;0
 Luís Rodrigues;Filipe Araujo;1
 Filipe Araujo;Luís Rodrigues;1
-Luís Silva;Alexandre Alves;0
-Alexandre Alves;Luís Silva;0
 Luís Silva;Alvaro E. Arenas;2
 Alvaro E. Arenas;Luís Silva;2
 Luís Silva;Artur Andrzejak;4
 Artur Andrzejak;Luís Silva;4
 Luís Silva;Attila Marosi;0
 Attila Marosi;Luís Silva;0
-Luís Silva;Bart Veer;1
-Bart Veer;Luís Silva;1
-Luís Silva;Bruno Cabral;1
-Bruno Cabral;Luís Silva;1
+Luís Silva;Bruno Cabral;0
+Bruno Cabral;Luís Silva;0
 Luís Silva;Carlos Cunha;1
 Carlos Cunha;Luís Silva;1
 Luís Silva;David Pereira;0
@@ -1566,8 +1302,6 @@ Luís Silva;Fernando Costa;2
 Fernando Costa;Luís Silva;2
 Luís Silva;Filipe Araujo;4
 Filipe Araujo;Luís Silva;4
-Luís Silva;Francisco Soares;0
-Francisco Soares;Luís Silva;0
 Luís Silva;Franck Capello;0
 Franck Capello;Luís Silva;0
 Luís Silva;Gheorghe Cosmin Silaghi;2
@@ -1576,10 +1310,8 @@ Luís Silva;Gilles Fedak;1
 Gilles Fedak;Luís Silva;1
 Luís Silva;Gábor Gombás;0
 Gábor Gombás;Luís Silva;0
-Luís Silva;Henrique Madeira;1
-Henrique Madeira;Luís Silva;1
-Luís Silva;Hernani Pedroso;2
-Hernani Pedroso;Luís Silva;2
+Luís Silva;Henrique Madeira;0
+Henrique Madeira;Luís Silva;0
 Luís Silva;Ian Kelley;2
 Ian Kelley;Luís Silva;2
 Luís Silva;Ian Taylor;0
@@ -1590,102 +1322,60 @@ Luís Silva;Joao Paulo Magalhaes;4
 Joao Paulo Magalhaes;Luís Silva;4
 Luís Silva;Jordi Torres;0
 Jordi Torres;Luís Silva;0
-Luís Silva;Jorge Bernardino;0
-Jorge Bernardino;Luís Silva;0
 Luís Silva;Jorge Farinha;0
 Jorge Farinha;Luís Silva;0
-Luís Silva;João Carreira;1
-João Carreira;Luís Silva;1
-Luís Silva;João Gabriel Silva;32
-João Gabriel Silva;Luís Silva;32
-Luís Silva;João Silva;1
-João Silva;Luís Silva;1
+Luís Silva;João Gabriel Silva;1
+João Gabriel Silva;Luís Silva;1
 Luís Silva;Juan A. Gomez-Pulido;0
 Juan A. Gomez-Pulido;Luís Silva;0
 Luís Silva;Juan M. Sánchez-Pérez;0
 Juan M. Sánchez-Pérez;Luís Silva;0
-Luís Silva;Lyndon Clarke;1
-Lyndon Clarke;Luís Silva;1
 Luís Silva;Miguel A. Vega-Rodríguez;0
 Miguel A. Vega-Rodríguez;Luís Silva;0
-Luís Silva;Nuno Carvalho;1
-Nuno Carvalho;Luís Silva;1
 Luís Silva;Nuno M. Rodrigues;0
 Nuno M. Rodrigues;Luís Silva;0
 Luís Silva;Nuno Moreno;0
 Nuno Moreno;Luís Silva;0
-Luís Silva;Nuno Santos;2
-Nuno Santos;Luís Silva;2
 Luís Silva;Oleg Lodygensky;0
 Oleg Lodygensky;Luís Silva;0
 Luís Silva;Patricio Domingues;11
 Patricio Domingues;Luís Silva;11
 Luís Silva;Paul Malecot;0
 Paul Malecot;Luís Silva;0
-Luís Silva;Paulo Marques;13
-Paulo Marques;Luís Silva;13
-Luís Silva;Paulo Martins;3
-Paulo Martins;Luís Silva;3
-Luís Silva;Paulo Santos;0
-Paulo Santos;Luís Silva;0
-Luís Silva;Pedro Bizarro;2
-Pedro Bizarro;Luís Silva;2
-Luís Silva;Pedro Pereira;1
-Pedro Pereira;Luís Silva;1
+Luís Silva;Paulo Marques;3
+Paulo Marques;Luís Silva;3
 Luís Silva;Péter Kacsuk;0
 Péter Kacsuk;Luís Silva;0
-Luís Silva;Raul Fonseca;1
-Raul Fonseca;Luís Silva;1
 Luís Silva;Renato Vale;0
 Renato Vale;Luís Silva;0
-Luís Silva;Simon Chapple;2
-Simon Chapple;Luís Silva;2
 Luís Silva;Sébastien Tixeuil;2
 Sébastien Tixeuil;Luís Silva;2
 Luís Silva;Sílvio Mendes;0
 Sílvio Mendes;Luís Silva;0
-Luís Silva;Vitor Batista;2
-Vitor Batista;Luís Silva;2
-Luís Silva;Vítor Manuel Noronha Távora;1
-Vítor Manuel Noronha Távora;Luís Silva;1
 Luís Silva;William  Hoarau;2
 William  Hoarau;Luís Silva;2
 Luís Silva;Zoltán Balaton;0
 Zoltán Balaton;Luís Silva;0
 Luís Silva;Zoltán Farkas;0
 Zoltán Farkas;Luís Silva;0
-Lyndon Clarke;João Gabriel Silva;1
-João Gabriel Silva;Lyndon Clarke;1
-Lyndon Clarke;Luís Silva;1
-Luís Silva;Lyndon Clarke;1
-Lyndon Clarke;Simon Chapple;1
-Simon Chapple;Lyndon Clarke;1
-Manuel Rodríguez;Diamantino Costa;0
-Diamantino Costa;Manuel Rodríguez;0
-Manuel Rodríguez;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;Manuel Rodríguez;1
-Manuel Rodríguez;Han van Loon;1
-Han van Loon;Manuel Rodríguez;1
-Manuel Rodríguez;João Gabriel Silva;1
-João Gabriel Silva;Manuel Rodríguez;1
-Manuel Rodríguez;Knud Pedersen;0
-Knud Pedersen;Manuel Rodríguez;0
-Manuel Rodríguez;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;Manuel Rodríguez;1
+Manuel Rodríguez;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;Manuel Rodríguez;0
+Manuel Rodríguez;Han van Loon;0
+Han van Loon;Manuel Rodríguez;0
+Manuel Rodríguez;João Gabriel Silva;0
+João Gabriel Silva;Manuel Rodríguez;0
+Manuel Rodríguez;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;Manuel Rodríguez;0
 Marcelo Rodrigues Nunes Mendes;Paulo Marques;3
 Paulo Marques;Marcelo Rodrigues Nunes Mendes;3
 Marcelo Rodrigues Nunes Mendes;Pedro Bizarro;3
 Pedro Bizarro;Marcelo Rodrigues Nunes Mendes;3
-Marco Aurélio Costa;Henrique Madeira;2
-Henrique Madeira;Marco Aurélio Costa;2
-Marco Aurélio Costa;Jorge Bernardino;0
-Jorge Bernardino;Marco Aurélio Costa;0
+Marco Aurélio Costa;Henrique Madeira;1
+Henrique Madeira;Marco Aurélio Costa;1
 Marco Aurélio Costa;Jorge Vieira;1
 Jorge Vieira;Marco Aurélio Costa;1
 Marco Aurélio Costa;Marco Vieira;1
 Marco Vieira;Marco Aurélio Costa;1
-Marco Aurélio Costa;Pedro Furtado;0
-Pedro Furtado;Marco Aurélio Costa;0
 Marco Vieira;A. Pataricza;1
 A. Pataricza;Marco Vieira;1
 Marco Vieira;Afonso Comba de Araújo Neto;8
@@ -1694,12 +1384,10 @@ Marco Vieira;Ana Maria Ambrósio;3
 Ana Maria Ambrósio;Marco Vieira;3
 Marco Vieira;Aniello Napolitano;1
 Aniello Napolitano;Marco Vieira;1
-Marco Vieira;António Casimiro Costa;3
-António Casimiro Costa;Marco Vieira;3
+Marco Vieira;António Casimiro Costa;2
+António Casimiro Costa;Marco Vieira;2
 Marco Vieira;Bruno Cabral;2
 Bruno Cabral;Marco Vieira;2
-Marco Vieira;Diamantino Costa;2
-Diamantino Costa;Marco Vieira;2
 Marco Vieira;Douglas Rodrigues;1
 Douglas Rodrigues;Marco Vieira;1
 Marco Vieira;Eliane Martins;1
@@ -1712,8 +1400,8 @@ Marco Vieira;G. Pintér;1
 G. Pintér;Marco Vieira;1
 Marco Vieira;Gabriella Carrozza;1
 Gabriella Carrozza;Marco Vieira;1
-Marco Vieira;Henrique Madeira;40
-Henrique Madeira;Marco Vieira;40
+Marco Vieira;Henrique Madeira;31
+Henrique Madeira;Marco Vieira;31
 Marco Vieira;I. Majzik;2
 I. Majzik;Marco Vieira;2
 Marco Vieira;Indira Patil;0
@@ -1724,8 +1412,8 @@ Marco Vieira;Ivano Irrera;4
 Ivano Irrera;Marco Vieira;4
 Marco Vieira;Javier Cámara Moreno;3
 Javier Cámara Moreno;Marco Vieira;3
-Marco Vieira;Joao Duraes;8
-Joao Duraes;Marco Vieira;8
+Marco Vieira;Joao Duraes;7
+Joao Duraes;Marco Vieira;7
 Marco Vieira;Johan Karlsson;0
 Johan Karlsson;Marco Vieira;0
 Marco Vieira;Jorge Bernardino;10
@@ -1736,10 +1424,6 @@ Marco Vieira;José Carlos Coelho Martins da Fonseca;9
 José Carlos Coelho Martins da Fonseca;Marco Vieira;9
 Marco Vieira;João Carlos Cunha;3
 João Carlos Cunha;Marco Vieira;3
-Marco Vieira;João Gabriel Silva;0
-João Gabriel Silva;Marco Vieira;0
-Marco Vieira;João Pedro Costa;1
-João Pedro Costa;Marco Vieira;1
 Marco Vieira;Juan F Prieto;0
 Juan F Prieto;Marco Vieira;0
 Marco Vieira;Júlio Estrella;2
@@ -1772,8 +1456,6 @@ Marco Vieira;Paulo C. Veras;2
 Paulo C. Veras;Marco Vieira;2
 Marco Vieira;Paulo Marques;0
 Paulo Marques;Marco Vieira;0
-Marco Vieira;Pedro  Nunes da Costa;0
-Pedro  Nunes da Costa;Marco Vieira;0
 Marco Vieira;Pedro Gonçalo Roque Correia;0
 Pedro Gonçalo Roque Correia;Marco Vieira;0
 Marco Vieira;Rafael Simões Ventura;2
@@ -1798,8 +1480,6 @@ Marco Vieira;Rui André Correia de Oliveira;3
 Rui André Correia de Oliveira;Marco Vieira;3
 Marco Vieira;Salvador Canelas;0
 Salvador Canelas;Marco Vieira;0
-Marco Vieira;Tiago Rilho;1
-Tiago Rilho;Marco Vieira;1
 Marco Vieira;Vicente Navarro;0
 Vicente Navarro;Marco Vieira;0
 Mario Dal Cin;F. Moreira;0
@@ -1882,46 +1562,34 @@ Miguel Cardenas-Montes;Zoltán Farkas;1
 Zoltán Farkas;Miguel Cardenas-Montes;1
 Mário Alberto Zenha Rela;Ana Filipa Nogueira;2
 Ana Filipa Nogueira;Mário Alberto Zenha Rela;2
-Mário Alberto Zenha Rela;António Pessoa Magalhães;0
-António Pessoa Magalhães;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Bruno Miguel Luis;0
 Bruno Miguel Luis;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Diamantino Costa;0
-Diamantino Costa;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Eudisley Gomes dos Anjos;2
 Eudisley Gomes dos Anjos;Mário Alberto Zenha Rela;2
-Mário Alberto Zenha Rela;F. Moreira;1
-F. Moreira;Mário Alberto Zenha Rela;1
 Mário Alberto Zenha Rela;Francisco Fernández de Vega;6
 Francisco Fernández de Vega;Mário Alberto Zenha Rela;6
 Mário Alberto Zenha Rela;Gil Taran;0
 Gil Taran;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Henrique Madeira;4
-Henrique Madeira;Mário Alberto Zenha Rela;4
+Mário Alberto Zenha Rela;Henrique Madeira;0
+Henrique Madeira;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Joao Duraes;0
 Joao Duraes;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;José Carlos Bregieiro Ribeiro;7
 José Carlos Bregieiro Ribeiro;Mário Alberto Zenha Rela;7
 Mário Alberto Zenha Rela;José Luis Guerra da Rocha Nunes;2
 José Luis Guerra da Rocha Nunes;Mário Alberto Zenha Rela;2
-Mário Alberto Zenha Rela;João Carlos Cunha;6
-João Carlos Cunha;Mário Alberto Zenha Rela;6
-Mário Alberto Zenha Rela;João Gabriel Silva;7
-João Gabriel Silva;Mário Alberto Zenha Rela;7
-Mário Alberto Zenha Rela;Luís Eduardo Santos;0
-Luís Eduardo Santos;Mário Alberto Zenha Rela;0
+Mário Alberto Zenha Rela;João Carlos Cunha;4
+João Carlos Cunha;Mário Alberto Zenha Rela;4
+Mário Alberto Zenha Rela;João Gabriel Silva;0
+João Gabriel Silva;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Marco Vieira;0
 Marco Vieira;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Paula Furtado;0
-Paula Furtado;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Paula Prata;1
-Paula Prata;Mário Alberto Zenha Rela;1
+Mário Alberto Zenha Rela;Paula Prata;0
+Paula Prata;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Paulo Marques;0
 Paulo Marques;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Pedro Bizarro;0
 Pedro Bizarro;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Pedro Furtado;0
-Pedro Furtado;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Raul Barbosa;5
 Raul Barbosa;Mário Alberto Zenha Rela;5
 Mário Alberto Zenha Rela;Ricardo Costa;4
@@ -2000,10 +1668,6 @@ Nuno Antunes;Nuno Laranjeiro;0
 Nuno Laranjeiro;Nuno Antunes;0
 Nuno Antunes;Regina Moraes;1
 Regina Moraes;Nuno Antunes;1
-Nuno Carvalho;Luís Silva;1
-Luís Silva;Nuno Carvalho;1
-Nuno Fonseca;João Gabriel Silva;0
-João Gabriel Silva;Nuno Fonseca;0
 Nuno Laranjeiro;Aniello Napolitano;1
 Aniello Napolitano;Nuno Laranjeiro;1
 Nuno Laranjeiro;António Casimiro Costa;0
@@ -2048,14 +1712,6 @@ Nuno Moreno;Sébastien Tixeuil;0
 Sébastien Tixeuil;Nuno Moreno;0
 Nuno Moreno;William  Hoarau;0
 William  Hoarau;Nuno Moreno;0
-Nuno Santos;João Gabriel Silva;1
-João Gabriel Silva;Nuno Santos;1
-Nuno Santos;Luís Silva;2
-Luís Silva;Nuno Santos;2
-Nuno Santos;Paulo Marques;1
-Paulo Marques;Nuno Santos;1
-Nuno Santos;Pedro Pereira;0
-Pedro Pereira;Nuno Santos;0
 Nuno Silva;Ana Maria Ambrósio;0
 Ana Maria Ambrósio;Nuno Silva;0
 Nuno Silva;Emilia Villani;0
@@ -2120,18 +1776,14 @@ Olga Marina Freitas Craveiro;Henrique Madeira;3
 Henrique Madeira;Olga Marina Freitas Craveiro;3
 Olga Marina Freitas Craveiro;Joaquim Macedo;3
 Joaquim Macedo;Olga Marina Freitas Craveiro;3
-Patricia Rodríguez-Dapena;Diamantino Costa;0
-Diamantino Costa;Patricia Rodríguez-Dapena;0
-Patricia Rodríguez-Dapena;Fernando Aldea-Montero;1
-Fernando Aldea-Montero;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;Han van Loon;1
-Han van Loon;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;João Gabriel Silva;1
-João Gabriel Silva;Patricia Rodríguez-Dapena;1
-Patricia Rodríguez-Dapena;Knud Pedersen;0
-Knud Pedersen;Patricia Rodríguez-Dapena;0
-Patricia Rodríguez-Dapena;Manuel Rodríguez;1
-Manuel Rodríguez;Patricia Rodríguez-Dapena;1
+Patricia Rodríguez-Dapena;Fernando Aldea-Montero;0
+Fernando Aldea-Montero;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;Han van Loon;0
+Han van Loon;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;João Gabriel Silva;0
+João Gabriel Silva;Patricia Rodríguez-Dapena;0
+Patricia Rodríguez-Dapena;Manuel Rodríguez;0
+Manuel Rodríguez;Patricia Rodríguez-Dapena;0
 Patricio Domingues;Alvaro E. Arenas;1
 Alvaro E. Arenas;Patricio Domingues;1
 Patricio Domingues;Artur Andrzejak;2
@@ -2160,8 +1812,8 @@ Patricio Domingues;Gábor Gombás;0
 Gábor Gombás;Patricio Domingues;0
 Patricio Domingues;Jorge Farinha;1
 Jorge Farinha;Patricio Domingues;1
-Patricio Domingues;João Gabriel Silva;1
-João Gabriel Silva;Patricio Domingues;1
+Patricio Domingues;João Gabriel Silva;0
+João Gabriel Silva;Patricio Domingues;0
 Patricio Domingues;Juan A. Gomez-Pulido;0
 Juan A. Gomez-Pulido;Patricio Domingues;0
 Patricio Domingues;Juan M. Sánchez-Pérez;0
@@ -2198,20 +1850,12 @@ Paul Malecot;Luís Silva;0
 Luís Silva;Paul Malecot;0
 Paul Malecot;Patricio Domingues;0
 Patricio Domingues;Paul Malecot;0
-Paula Furtado;F. Moreira;0
-F. Moreira;Paula Furtado;0
-Paula Furtado;Henrique Madeira;0
-Henrique Madeira;Paula Furtado;0
-Paula Furtado;João Gabriel Silva;0
-João Gabriel Silva;Paula Furtado;0
-Paula Furtado;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Paula Furtado;0
-Paula Prata;Henrique Madeira;1
-Henrique Madeira;Paula Prata;1
-Paula Prata;João Gabriel Silva;2
-João Gabriel Silva;Paula Prata;2
-Paula Prata;Mário Alberto Zenha Rela;1
-Mário Alberto Zenha Rela;Paula Prata;1
+Paula Prata;Henrique Madeira;0
+Henrique Madeira;Paula Prata;0
+Paula Prata;João Gabriel Silva;0
+João Gabriel Silva;Paula Prata;0
+Paula Prata;Mário Alberto Zenha Rela;0
+Mário Alberto Zenha Rela;Paula Prata;0
 Paulo C. Veras;Ana Maria Ambrósio;2
 Ana Maria Ambrósio;Paulo C. Veras;2
 Paulo C. Veras;Emilia Villani;2
@@ -2226,28 +1870,24 @@ Paulo C. Veras;Rodrigo P. Pontes;0
 Rodrigo P. Pontes;Paulo C. Veras;0
 Paulo Marques;Alcides Fonseca;1
 Alcides Fonseca;Paulo Marques;1
-Paulo Marques;Bruno Cabral;5
-Bruno Cabral;Paulo Marques;5
+Paulo Marques;Bruno Cabral;4
+Bruno Cabral;Paulo Marques;4
 Paulo Marques;David Alves;1
 David Alves;Paulo Marques;1
 Paulo Marques;Gil Taran;0
 Gil Taran;Paulo Marques;0
-Paulo Marques;Hernani Pedroso;1
-Hernani Pedroso;Paulo Marques;1
+Paulo Marques;Hernani Pedroso;0
+Hernani Pedroso;Paulo Marques;0
 Paulo Marques;Jonathan Aldrich;1
 Jonathan Aldrich;Paulo Marques;1
 Paulo Marques;José Feiteirinha;0
 José Feiteirinha;Paulo Marques;0
-Paulo Marques;João Gabriel Silva;8
-João Gabriel Silva;Paulo Marques;8
-Paulo Marques;João Silva;0
-João Silva;Paulo Marques;0
 Paulo Marques;Juan F Prieto;0
 Juan F Prieto;Paulo Marques;0
 Paulo Marques;Luís Pureza;0
 Luís Pureza;Paulo Marques;0
-Paulo Marques;Luís Silva;13
-Luís Silva;Paulo Marques;13
+Paulo Marques;Luís Silva;3
+Luís Silva;Paulo Marques;3
 Paulo Marques;Marcelo Rodrigues Nunes Mendes;3
 Marcelo Rodrigues Nunes Mendes;Paulo Marques;3
 Paulo Marques;Marco Vieira;0
@@ -2258,48 +1898,22 @@ Paulo Marques;Mário Alberto Zenha Rela;0
 Mário Alberto Zenha Rela;Paulo Marques;0
 Paulo Marques;Niklas Lindman;0
 Niklas Lindman;Paulo Marques;0
-Paulo Marques;Nuno Santos;1
-Nuno Santos;Paulo Marques;1
 Paulo Marques;Patricio Domingues;2
 Patricio Domingues;Paulo Marques;2
 Paulo Marques;Paulo Sacramento;1
 Paulo Sacramento;Paulo Marques;1
-Paulo Marques;Paulo Santos;0
-Paulo Santos;Paulo Marques;0
 Paulo Marques;Pedro Bizarro;6
 Pedro Bizarro;Paulo Marques;6
 Paulo Marques;Rafael Marmelo;1
 Rafael Marmelo;Paulo Marques;1
-Paulo Marques;Raul Fonseca;1
-Raul Fonseca;Paulo Marques;1
 Paulo Marques;Sven Stork;1
 Sven Stork;Paulo Marques;1
 Paulo Marques;Vicente Navarro;0
 Vicente Navarro;Paulo Marques;0
-Paulo Martins;Hernani Pedroso;0
-Hernani Pedroso;Paulo Martins;0
-Paulo Martins;João Gabriel Silva;1
-João Gabriel Silva;Paulo Martins;1
-Paulo Martins;Luís Silva;3
-Luís Silva;Paulo Martins;3
-Paulo Martins;Vitor Batista;1
-Vitor Batista;Paulo Martins;1
 Paulo Sacramento;Bruno Cabral;1
 Bruno Cabral;Paulo Sacramento;1
 Paulo Sacramento;Paulo Marques;1
 Paulo Marques;Paulo Sacramento;1
-Paulo Santos;João Gabriel Silva;0
-João Gabriel Silva;Paulo Santos;0
-Paulo Santos;Luís Silva;0
-Luís Silva;Paulo Santos;0
-Paulo Santos;Paulo Marques;0
-Paulo Marques;Paulo Santos;0
-Pedro  Nunes da Costa;Henrique Madeira;0
-Henrique Madeira;Pedro  Nunes da Costa;0
-Pedro  Nunes da Costa;João Gabriel Silva;0
-João Gabriel Silva;Pedro  Nunes da Costa;0
-Pedro  Nunes da Costa;Marco Vieira;0
-Marco Vieira;Pedro  Nunes da Costa;0
 Pedro Bizarro;David Alves;1
 David Alves;Pedro Bizarro;1
 Pedro Bizarro;David DeWitt;1
@@ -2310,18 +1924,12 @@ Pedro Bizarro;Eduardo Gomez;0
 Eduardo Gomez;Pedro Bizarro;0
 Pedro Bizarro;Gil Taran;0
 Gil Taran;Pedro Bizarro;0
-Pedro Bizarro;Henrique Madeira;1
-Henrique Madeira;Pedro Bizarro;1
 Pedro Bizarro;Jennifer Widom;0
 Jennifer Widom;Pedro Bizarro;0
 Pedro Bizarro;José Feiteirinha;0
 José Feiteirinha;Pedro Bizarro;0
-Pedro Bizarro;João Gabriel Silva;2
-João Gabriel Silva;Pedro Bizarro;2
 Pedro Bizarro;Juan F Prieto;0
 Juan F Prieto;Pedro Bizarro;0
-Pedro Bizarro;Luís Silva;2
-Luís Silva;Pedro Bizarro;2
 Pedro Bizarro;Marcelo Rodrigues Nunes Mendes;3
 Marcelo Rodrigues Nunes Mendes;Pedro Bizarro;3
 Pedro Bizarro;Mauro Pecchioli;0
@@ -2344,34 +1952,20 @@ Pedro Furtado;Carlo Emmanoel Tolla de Oliveira;0
 Carlo Emmanoel Tolla de Oliveira;Pedro Furtado;0
 Pedro Furtado;Filipe Araujo;0
 Filipe Araujo;Pedro Furtado;0
-Pedro Furtado;Henrique Madeira;4
-Henrique Madeira;Pedro Furtado;4
-Pedro Furtado;Jorge Bernardino;8
-Jorge Bernardino;Pedro Furtado;8
-Pedro Furtado;Jorge Vieira;0
-Jorge Vieira;Pedro Furtado;0
+Pedro Furtado;Jorge Bernardino;6
+Jorge Bernardino;Pedro Furtado;6
 Pedro Furtado;José Cecílio;13
 José Cecílio;Pedro Furtado;13
-Pedro Furtado;João Gabriel Silva;0
-João Gabriel Silva;Pedro Furtado;0
-Pedro Furtado;João Pedro Costa;11
-João Pedro Costa;Pedro Furtado;11
+Pedro Furtado;João Pedro Costa;8
+João Pedro Costa;Pedro Furtado;8
 Pedro Furtado;Luis Orleans;1
 Luis Orleans;Pedro Furtado;1
-Pedro Furtado;Marco Aurélio Costa;0
-Marco Aurélio Costa;Pedro Furtado;0
-Pedro Furtado;Mário Alberto Zenha Rela;0
-Mário Alberto Zenha Rela;Pedro Furtado;0
 Pedro Furtado;Raul Barbosa;0
 Raul Barbosa;Pedro Furtado;0
 Pedro Furtado;Ricardo Antunes;1
 Ricardo Antunes;Pedro Furtado;1
 Pedro Furtado;Rogério Luís de Carvalho Costa;6
 Rogério Luís de Carvalho Costa;Pedro Furtado;6
-Pedro Gil;Henrique Madeira;0
-Henrique Madeira;Pedro Gil;0
-Pedro Gil;J. Arlat;0
-J. Arlat;Pedro Gil;0
 Pedro Gonçalo Roque Correia;Javier Cámara Moreno;1
 Javier Cámara Moreno;Pedro Gonçalo Roque Correia;1
 Pedro Gonçalo Roque Correia;Marco Vieira;0
@@ -2380,14 +1974,6 @@ Pedro Gonçalo Roque Correia;Rafael Simões Ventura;0
 Rafael Simões Ventura;Pedro Gonçalo Roque Correia;0
 Pedro Gonçalo Roque Correia;Rogério de Lemos;1
 Rogério de Lemos;Pedro Gonçalo Roque Correia;1
-Pedro Pereira;Luís Silva;1
-Luís Silva;Pedro Pereira;1
-Pedro Pereira;Nuno Santos;0
-Nuno Santos;Pedro Pereira;0
-Pedro Silva;João Gabriel Silva;0
-João Gabriel Silva;Pedro Silva;0
-Philip Koopman;Henrique Madeira;1
-Henrique Madeira;Philip Koopman;1
 Péter Kacsuk;Ad Emmen;1
 Ad Emmen;Péter Kacsuk;1
 Péter Kacsuk;Attila Marosi;1
@@ -2432,14 +2018,6 @@ Péter Kacsuk;Zoltán Balaton;2
 Zoltán Balaton;Péter Kacsuk;2
 Péter Kacsuk;Zoltán Farkas;2
 Zoltán Farkas;Péter Kacsuk;2
-R. R. Some;D. Rennels;0
-D. Rennels;R. R. Some;0
-R. R. Some;Diamantino Costa;0
-Diamantino Costa;R. R. Some;0
-R. R. Some;F. Moreira;0
-F. Moreira;R. R. Some;0
-R. R. Some;Henrique Madeira;0
-Henrique Madeira;R. R. Some;0
 Rafael Marmelo;Paulo Marques;1
 Paulo Marques;Rafael Marmelo;1
 Rafael Marmelo;Pedro Bizarro;1
@@ -2514,12 +2092,6 @@ Raul Barbosa;Samuel Neves;0
 Samuel Neves;Raul Barbosa;0
 Raul Barbosa;Serhiy Boychenko;0
 Serhiy Boychenko;Raul Barbosa;0
-Raul Fonseca;João Gabriel Silva;1
-João Gabriel Silva;Raul Fonseca;1
-Raul Fonseca;Luís Silva;1
-Luís Silva;Raul Fonseca;1
-Raul Fonseca;Paulo Marques;1
-Paulo Marques;Raul Fonseca;1
 Regina Moraes;Eliane Martins;3
 Eliane Martins;Regina Moraes;3
 Regina Moraes;Henrique Madeira;3
@@ -2578,16 +2150,16 @@ Ricardo Barbosa;Ricardo Maia;0
 Ricardo Maia;Ricardo Barbosa;0
 Ricardo Costa;Mário Alberto Zenha Rela;4
 Mário Alberto Zenha Rela;Ricardo Costa;4
-Ricardo Jorge Santos;Jorge Bernardino;13
-Jorge Bernardino;Ricardo Jorge Santos;13
+Ricardo Jorge Santos;Jorge Bernardino;12
+Jorge Bernardino;Ricardo Jorge Santos;12
 Ricardo Jorge Santos;Marco Vieira;7
 Marco Vieira;Ricardo Jorge Santos;7
-Ricardo Maia;Diamantino Costa;1
-Diamantino Costa;Ricardo Maia;1
-Ricardo Maia;Henrique Madeira;1
-Henrique Madeira;Ricardo Maia;1
-Ricardo Maia;Luis Henriques;1
-Luis Henriques;Ricardo Maia;1
+Ricardo Maia;Diamantino Costa;0
+Diamantino Costa;Ricardo Maia;0
+Ricardo Maia;Henrique Madeira;0
+Henrique Madeira;Ricardo Maia;0
+Ricardo Maia;Luis Henriques;0
+Luis Henriques;Ricardo Maia;0
 Ricardo Maia;Ricardo Barbosa;0
 Ricardo Barbosa;Ricardo Maia;0
 Rodrigo P. Pontes;Ana Maria Ambrósio;0
@@ -2694,12 +2266,6 @@ Shivnath Babu;Jennifer Widom;0
 Jennifer Widom;Shivnath Babu;0
 Shivnath Babu;Pedro Bizarro;1
 Pedro Bizarro;Shivnath Babu;1
-Simon Chapple;João Gabriel Silva;2
-João Gabriel Silva;Simon Chapple;2
-Simon Chapple;Luís Silva;2
-Luís Silva;Simon Chapple;2
-Simon Chapple;Lyndon Clarke;1
-Lyndon Clarke;Simon Chapple;1
 Sven Stork;Alcides Fonseca;0
 Alcides Fonseca;Sven Stork;0
 Sven Stork;Jonathan Aldrich;1
@@ -2756,16 +2322,6 @@ Tamas Kiss;Zoltán Balaton;1
 Zoltán Balaton;Tamas Kiss;1
 Tamas Kiss;Zoltán Farkas;1
 Zoltán Farkas;Tamas Kiss;1
-Tiago Baptista;Hernani Pedroso;0
-Hernani Pedroso;Tiago Baptista;0
-Tiago Baptista;João Gabriel Silva;0
-João Gabriel Silva;Tiago Baptista;0
-Tiago Rilho;Diamantino Costa;1
-Diamantino Costa;Tiago Rilho;1
-Tiago Rilho;Henrique Madeira;1
-Henrique Madeira;Tiago Rilho;1
-Tiago Rilho;Marco Vieira;1
-Marco Vieira;Tiago Rilho;1
 Tiago Santos;Filipe Araujo;0
 Filipe Araujo;Tiago Santos;0
 Tiago Santos;Luis Pinto;0
@@ -2782,18 +2338,6 @@ Vicente Navarro;Mauro Pecchioli;0
 Mauro Pecchioli;Vicente Navarro;0
 Vicente Navarro;Paulo Marques;0
 Paulo Marques;Vicente Navarro;0
-Vitor Batista;Hernani Pedroso;0
-Hernani Pedroso;Vitor Batista;0
-Vitor Batista;João Gabriel Silva;1
-João Gabriel Silva;Vitor Batista;1
-Vitor Batista;Luís Silva;2
-Luís Silva;Vitor Batista;2
-Vitor Batista;Paulo Martins;1
-Paulo Martins;Vitor Batista;1
-Vítor Manuel Noronha Távora;João Gabriel Silva;1
-João Gabriel Silva;Vítor Manuel Noronha Távora;1
-Vítor Manuel Noronha Távora;Luís Silva;1
-Luís Silva;Vítor Manuel Noronha Távora;1
 William  Hoarau;Decio Sousa;0
 Decio Sousa;William  Hoarau;0
 William  Hoarau;Luís Silva;2

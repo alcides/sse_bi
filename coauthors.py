@@ -5,9 +5,12 @@ import pandas as pd
 from nltk.corpus import stopwords
 
 by_year = False
+filter_since = None
 if len(sys.argv) >= 2:
     if sys.argv[1] == 'year':
         by_year = True
+    if sys.argv[1] == 'since':
+        filter_since = int(sys.argv[2])
 
 df = pd.read_csv("data/pubs_sse.csv", sep=",", header=0)
 
@@ -21,13 +24,18 @@ pairs = {}
 for i in df.index:
     pub = df.ix[i][0]
     author = df.ix[i][10]
+    year = df.ix[i][7]
+    
+    if filter_since and int(year) < filter_since:
+        continue
+    
     if author not in people:
         people.append(author)
     if pub not in graph:
         graph[pub] = [author]
     else:
         graph[pub].append(author)
-    graph_y[pub] = df.ix[i][7]
+    graph_y[pub] = year
         
 def histogram(lst):
     cnt = {}
@@ -67,5 +75,7 @@ for author in people:
 for pair in sorted(pairs.keys()):
     if by_year:
         print pair[0] + ";" + pair[1] + ";" + str(pair[2]) + ";"+ str(pairs[pair]/2)
+        print pair[1] + ";" + pair[0] + ";" + str(pair[2]) + ";"+ str(pairs[pair]/2)
     else:
         print pair[0] + ";" + pair[1] + ";" + str(pairs[pair]/2)
+        print pair[1] + ";" + pair[0] + ";" + str(pairs[pair]/2)
