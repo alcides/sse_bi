@@ -1,0 +1,39 @@
+web services
+security
+dependability
+fault injection
+fault tolerance
+data warehousing
+performance
+penetration testing
+vulnerability detection
+robustness testing
+embedded systems
+software architecture
+failure prediction
+evolutionary testing
+object-orientation
+fpga
+databases
+data security
+web applications
+static code analysis
+software vulnerabilities
+self-healing
+self-adaptive systems
+real-time
+encryption
+desktop grid
+data processing
+data privacy
+cloud computing
+
+
+Smart Grids
+Virtual Machines
+Green Computing
+Bug Finding
+Machine Learning
+NoSQL
+Smartphones
+Ubiquitous Computing

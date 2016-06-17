@@ -119,7 +119,15 @@ if GRAPH:
     pub_prop = t.new_vertex_property('int')
     t.vertex_properties['pubs'] = pub_prop
     
-    for pair in sorted(pairs.keys()):
+    
+    pairdone = []
+    for opair in sorted(pairs.keys()):
+        pair = tuple(sorted(opair))
+        if pair in pairdone:
+            continue
+        pairdone.append(pair)
+        
+                
         if pair[0] not in vertex:
             vertex[pair[0]] = t.add_vertex()
             name_prop[vertex[pair[0]]] = make_name(pair[0])
@@ -133,7 +141,7 @@ if GRAPH:
         v2 = vertex[pair[1]]
         
         e = t.add_edge(v1, v2)
-        pp_prop[e] = pairs[pair] * 4
+        pp_prop[e] = pairs[opair] * 4
     
     gt.graph_draw(t,
               vertex_font_size=16,
@@ -144,6 +152,3 @@ if GRAPH:
               vertex_text = name_prop,
               output='graph.png')
               
-    state = gt.minimize_blockmodel_dl(t)
-    k = dr.sfdp_layout(state)
-    gt.graph_draw(state, pos=k, output="cluster.pdf")
