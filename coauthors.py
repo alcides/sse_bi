@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import sys
 import pandas as pd
 #import matplotlib.pyplot as plt
@@ -99,6 +102,8 @@ vertex = {}
 if GRAPH:
     
     def make_name(n):
+        if "Gabriel Silva" in n:
+            return u"João Gabriel"
         parts = n.split(" ")
         if len(parts) < 2:
             return n
@@ -119,6 +124,9 @@ if GRAPH:
     pub_prop = t.new_vertex_property('int')
     t.vertex_properties['pubs'] = pub_prop
     
+    pub_prop_font = t.new_vertex_property('int')
+    t.vertex_properties['pub_prop_font'] = pub_prop_font
+    
     
     pairdone = []
     for opair in sorted(pairs.keys()):
@@ -132,23 +140,25 @@ if GRAPH:
             vertex[pair[0]] = t.add_vertex()
             name_prop[vertex[pair[0]]] = make_name(pair[0])
             pub_prop[vertex[pair[0]]] = indiv_pubs[pair[0]] * 4
+            pub_prop_font[vertex[pair[0]]] = min(18, indiv_pubs[pair[0]] / 4)
         if pair[1] not in vertex:
             vertex[pair[1]] = t.add_vertex()
             name_prop[vertex[pair[1]]] = make_name(pair[1])
             pub_prop[vertex[pair[1]]] = indiv_pubs[pair[1]] * 4
+            pub_prop_font[vertex[pair[1]]] = min(18, indiv_pubs[pair[1]] / 4)
         
         v1 = vertex[pair[0]]
         v2 = vertex[pair[1]]
         
         e = t.add_edge(v1, v2)
-        pp_prop[e] = pairs[opair] * 4
+        pp_prop[e] = pairs[opair]
     
     gt.graph_draw(t,
-              vertex_font_size=16,
+              vertex_font_size=15, #pub_prop_font,
               vertex_anchor=0,
               output_size=[8192,4024],
               edge_pen_width= pp_prop,
-              vertex_size = pub_prop,
+              vertex_size = 150, #pub_prop,
               vertex_text = name_prop,
               output='graph.png')
               
