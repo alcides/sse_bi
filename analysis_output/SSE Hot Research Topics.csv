@@ -1,0 +1,80 @@
+"Timestamp","Enter your e-mail address from DEI","Topic 1","Topic 2","Topic 3","Something else? Write it down please."
+"2016/06/17 6:41:20 PM GMT+1","henrique@dei.uc.pt","Dependability","Security","Fault injection",""
+"2016/06/19 5:13:59 PM GMT+1","jb@dei.uc.pt","Big Data","Data security","Data warehousing",""
+"2016/06/19 5:19:39 PM GMT+1","mvieira@dei.uc.pt","Security","Dependability","Cloud computing","Resilience"
+"2016/06/19 5:26:34 PM GMT+1","ivanoe@dei.uc.pt","Security","Dependability","Web services","Interoperability "
+"2016/06/19 5:47:50 PM GMT+1","mzrela@dei.uc.pt","Software architecture","Failure prediction","Dependability","Software Engineering as a socio-technical activity"
+"2016/06/19 6:49:41 PM GMT+1","filipius@dei.uc.pt","Cloud computing","Distributed systems","Encryption",""
+"2016/06/19 6:51:21 PM GMT+1","fmduarte@dei.uc.pt","Cloud computing","Virtual machines","Fault injection",""
+"2016/06/19 6:56:35 PM GMT+1","lfav@dei.uc.pt","Dependability","NoSQL","Fault injection",""
+"2016/06/19 7:56:47 PM GMT+1","nmsa@dei.uc.pt","Cloud computing","Security","Dependability","OS-level virtualization // Mobile"
+"2016/06/19 11:00:20 PM GMT+1","cnl@dei.uc.pt","Dependability","Web services","Cloud computing",""
+"2016/06/19 11:24:11 PM GMT+1","jpcosta@dei.uc.pt","Big Data","Real-time","Cloud computing",""
+"2016/06/20 9:33:58 AM GMT+1","nsilvamed@gmail.com","Data security","Evolutionary testing","Cloud computing",""
+"2016/06/20 12:32:46 PM GMT+1","jcunha@dei.uc.pt","FPGA","Embedded systems","Failure prediction","Autonomous vehicles"
+"2016/06/20 2:01:20 PM GMT+1","dmrc@student.dei.uc.pt","Dependability","Cloud computing","Robustness testing",""
+"2016/06/20 2:48:19 PM GMT+1","racoliv@dei.uc.pt","Cloud computing","Software architecture","Software vulnerabilities",""
+"2016/06/20 4:18:34 PM GMT+1","amaf@dei.uc.pt","Parallel/Concurrent Programming","Machine learning","Static code analysis",""
+"2016/06/20 4:24:34 PM GMT+1","bcabral@dei.uc.pt","Data privacy","Parallel/Concurrent Programming","Failure prediction",""
+
+Cloud/Big Data
+	Jorge Bernardino
+	Marco Vieira
+	Filipe Araújo
+	Frederico Cerveira
+	Nuno Antunes
+	Nuno Laranjeiro
+	Nádia Medeiros
+	Diogo Carvalho
+	Rui Oliveira
+
+Security/Dependability
+	Henrique Madeira
+	Jorge Bernardino
+	Marco Vieira
+	Ivano Elia
+	Mário Rela
+	Filipe Araújo
+	Luís Ventura
+	Nuno Antunes
+	Nuno Laranjeiro
+	Diogo Carvalho
+	
+Failure Prediction/Machine Learning/Evolutionary Testing:
+	Nádia Medeiros
+	João Cunha
+	Mário Rela
+	Alcides Fonseca
+	Bruno Cabral
+	
+Parallel/Concurrent/FPGA
+	Alcides Fonseca
+	Bruno Cabral
+	João Cunha
+
+Encryption/Privacy
+	Filipe Araújo
+	Bruno Cabral
+	
+Mobile
+	Nuno Antunes
+
+Software Engineering as a socio-technical activity
+	Mário Rela
+
+Autonomous vehicles
+	João Cunha
+	Henrique Madeira
+
+
+
+	
+	
+
+
+
+	
+	
+
+
+	
