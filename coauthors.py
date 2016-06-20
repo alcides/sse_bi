@@ -6,9 +6,13 @@ import pandas as pd
 #import matplotlib.pyplot as plt
 
 from nltk.corpus import stopwords
+from nltk.stem.snowball import EnglishStemmer
+stemmer = EnglishStemmer()
+
+clas = map( lambda x: (x, stemmer.stem(x)), map(lambda x: type(x) == str and x.lower().strip().decode('utf-8') or u"", open("data/acm_categories.txt", 'r').readlines()))
 
 GRAPH = True
-
+keywords = False
 by_year = False
 filter_since = None
 if len(sys.argv) >= 2:
@@ -16,6 +20,9 @@ if len(sys.argv) >= 2:
         by_year = True
     if sys.argv[1] == 'since':
         filter_since = int(sys.argv[2])
+    if sys.argv[3] == 'keywords':
+        keywords = True
+
 
 df = pd.read_csv("data/pubs_sse.csv", sep=",", header=0)
 
@@ -29,13 +36,15 @@ people = []
 pairs = {}
 indiv_pubs = {}
 
+pubkeys = {}
+
 for i in df.index:
     pub = df.ix[i][0]
     author = df.ix[i][10]
     year = df.ix[i][7]
     
     if author not in approved:
-        print "rejected", author
+        #print "rejected", author
         continue
     
     if filter_since and int(year) < filter_since:
@@ -53,6 +62,23 @@ for i in df.index:
     else:
         graph[pub].append(author)
     graph_y[pub] = year
+    
+    ks = []
+    abstract = df.ix[i][3]
+    keys = df.ix[i][5]
+    keys = type(keys) == str and keys.decode('utf-8').lower() or ""
+    abstract = type(abstract) == str and abstract.decode('utf-8').lower() or ""    
+    
+    for cl, cl_s in clas:
+        if cl in keys:
+            ks.append(cl)
+            continue
+        if cl in abstract:
+            ks.append(cl)
+            continue
+        if cl_s in stemmer.stem(abstract):
+            ks.append(cl)
+    pubkeys[pub] = ks
         
 def histogram(lst):
     cnt = {}
@@ -62,7 +88,20 @@ def histogram(lst):
         else:
             cnt[i] += 1
     return cnt
+    
+    
+def merge(b, o):    
+    if not o:
+        return b
+    else:
+        for k in o:
+            if k not in b:
+                b[k] = o[k]
+            else:
+                b[k] += o[k]
+        return b
 
+coauthor_keys = {}
 for author in people:
     coauthors = []
     for pub in graph:
@@ -78,8 +117,12 @@ for author in people:
                     else:
                         pairs[k] += 1
                     coauthors.append(coauthor)
+                    
+                    dic = {}
+                    for v in pubkeys[pub]:
+                        dic[v] = 1
+                    coauthor_keys[k] = merge(dic, k in coauthor_keys and coauthor_keys[k] or {})
     key_dict = histogram(coauthors)
-
             
     data = []
     for k in key_dict:
@@ -96,6 +139,13 @@ for pair in sorted(pairs.keys()):
     else:
         print pair[0] + ";" + pair[1] + ";" + str(pairs[pair])
         print pair[1] + ";" + pair[0] + ";" + str(pairs[pair])
+        
+if keywords:
+    for pair in sorted(coauthor_keys):
+        if coauthor_keys[pair]:
+            ls = sorted([ (coauthor_keys[pair][k], k) for k in coauthor_keys[pair]])[::-1]
+            strr = ", ".join([ str(a[1]) + " " + str(a[0]) for a in ls ])
+            print pair[0], ",", pair[1], ",", strr
         
 vertex = {}
         
